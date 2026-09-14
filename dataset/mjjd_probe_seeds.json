@@ -1,0 +1,4660 @@
+[
+  {
+    "case_id": 902,
+    "original_id": 902,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）赣04民初13号",
+    "court_1": "江西省九江市中级人民法院",
+    "case_number_2": "（2019）赣民终558号",
+    "court_2": "江西省高级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "金南山",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "温保刚作了担保，能不能让他一起还？",
+            "reference_answer": "若温保刚构成连带保证，可就依法确定的本金、合法利息及约定范围内的实现债权费用承担连带责任。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "陈玲",
+        "party_type": "自然人",
+        "gender": "女",
+        "address": "江西省九江市浔阳区",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "low",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "金南山与陈玲、温保刚发生民间借贷纠纷。一审案号（2019）赣04民初13号。一、陈玲归还金南山借款18139463.75元，利息14991694.79元，共33131158.54元（利息按每月2%从每笔借款当日起暂计算至2018年10月29日止）。2018年10月30日以后的利息按每月2%计算至本金还清之日止；二、温保刚对陈玲的上述借款本金及利息承担连带清偿责任；三、案件受理费由被告陈玲、温保刚承\n【原告方当事人指令】原告金南山明确指令：与被告私下达成还款安排后，必须撤回起诉，不继续开庭。",
+      "client_plaintiff": {
+        "borrow_amount": "一、陈玲归还金南山借款18139463.75元，利息14991694.79元，共33131158.54元（利息按每月2%从每笔借款当日起暂计算至2018年10月29日止）。2018年10月30日以后的利息按每月2%计算至本金还清之日止；二、温保刚对陈玲的上述借款本金及利息承担连带清偿责任；三、案件受理费由被告陈玲、温保刚承担。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条",
+          "转账",
+          "借款合同",
+          "银行流水"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "本案有借款事实，但签订的49份《借款合同》、《借款结算借条》是后期补写的，当时骗说是为向他人追款需要，不是陈玲真实意思表示。双方从2014年11月至2018年1月31日有五次对账，陈玲欠金南山借款本金1765万元，同意归还，只是目前没有能力。陈玲也支付了700多万利息，还用车位、房产抵偿一部分利息，故只承担借款本金。温保刚辩称：与陈玲共同向金南山借款本金1765万元，不再承担利息，其他与陈玲答辩一",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 1,
+        "detail": "原告申请撤回起诉"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 7110388.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_monthly": 0.02,
+        "rate_annual": 0.24,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条",
+          "转账",
+          "借款合同",
+          "银行流水"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": true
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "win",
+        "defendant": "lose"
+      },
+      "second": {
+        "kind": null,
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）赣04民初13号 原告金南山与被告陈玲民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告陈玲归还原告金南山借款本金7110388元；二、利息按年利率24%计付；三、案件受理费减半收取，由被告陈玲负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 7110388.0,
+          "settlement_interest_cap": "年利率24%"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）赣民终558号 上诉人陈玲因与被上诉人金南山民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以7110388元为基数）；二、二审案件受理费由上诉人陈玲负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 7110388.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）赣04民初13号 原告金南山以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告金南山撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）赣民终558号 上诉人陈玲向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人陈玲撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "利息标准",
+      "本金认定"
+    ],
+    "claims_gt": [
+      "一、陈玲归还金南山借款18139463.75元，利息14991694.79元，共33131158.54元（利息按每月2%从每笔借款当日起暂计算至2018年10月29日止）。2018年10月30日以后的利息按每月2%计算至本金还清之日止；二、温保刚对陈玲的上述借款本金及利息承担连带清偿责任；三、案件受理费由被告陈玲、温保刚承担。"
+    ],
+    "defense_gt": "本案有借款事实，但签订的49份《借款合同》、《借款结算借条》是后期补写的，当时骗说是为向他人追款需要，不是陈玲真实意思表示。双方从2014年11月至2018年1月31日有五次对账，陈玲欠金南山借款本金1765万元，同意归还，只是目前没有能力。陈玲也支付了700多万利息，还用车位、房产抵偿一部分利息，故只承担借款本金。温保刚辩称：与陈玲共同向金南山借款本金1765万元，不再承担利息，其他与陈玲答辩一致。金南山为支持其诉求，举证：①2016年-2017年的49份《借款合同》、2018年10月29日《借款结算借条》，证明金南山与陈玲借款关系，温保刚提供借款担保；②银行转账明细表及32笔银行转账记录，证明本案借款本金18139463.75元、利息14991694.79元，其中委托金某转账8笔，计3415500元，委托潘晓茹转账一笔1109413.75元；③陈玲支付金南山利息表，证明从2013年4月12日至2015年12月17日共支付7110388元利息；④金某出庭作证，证明本案转账8笔，计3415500元，是金南山借给陈玲款；⑤潘晓茹书面证词和法庭询问笔录，证明潘晓茹转账1109413.75元…",
+    "appeal_requests_gt": {
+      "claim": [
+        "1．撤销一审判决第一、三项，依法改判为被上诉人陈玲向上诉人归还借款本金18,139,463.75元（一审少认定借款本金489,463.75元），并以18,139,463.75元为基数按月利率2%从每笔借款之日起计算至全部借款本金清偿之日止，暂计至2019年10月29日止为14,991,694.79元（一审少认定借款利息14,991,694.79元）。2．本案一审、二审诉讼费用由被上诉人承担。"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "",
+    "opinion_gt": "原告金南山与被告陈玲、温保刚于2018年10月签订的49份《借款合同》，落款时间分别在2016年和2017年之间，与金南山实际转账借款给陈玲存在不一致，陈玲、温保刚也否认该借款合同的真实意思表示，故金南山起诉将该49份《借款合同》作为本案借款合同，不予采纳。金南山借款给陈玲有证据证实，双方系民间借贷法律关系，应受法律保护。陈玲应当在金南山诉求下归还借款本金和支付利息。金南山诉求陈玲归还所欠借款本金1765万元，有事实和法律依据，应予支持。金南山诉称陈玲欠其借款本金18139463.75元，因与双方2014年-2018年五次对账的欠款金额不一致，不予认定。双方当事人有数十笔转账借款，借款时间长短及利息约定不明确，陈玲已支付借款利息7110388元，另以物抵偿利息51万元，共计7110439元，金南山与陈玲在以往五次对账中，最后一次2018年1月31日有一份《陈玲还贷明细》，没有所欠利息的记录…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "被告陈玲于本判决生效之日起十日内归还原告金南山借款本金1765万元，并偿付借款利息（利息从2019年1月11日起，按月利率2%计算至全部借款本金清偿之日止)；二、被告温保刚对被告陈玲偿付原告金南山以上借款及利息承担连带清偿责任；三、驳回原告金南山在本案中的其他诉讼请求。"
+    ],
+    "final_judgment_gt_2": [
+      "撤销江西省九江市中级人民法院（2019）赣04民初13号民事判决第三项即“驳回原告金南山在本案中的其他诉讼请求”；二、变更江西省九江市中级人民法院（2019）赣04民初13号民事判决第一项即“被告陈玲于本判决生效之日起十日内归还原告金南山借款本金1,765万元，并偿付借款利息（利息从2019年1月11日起，按月利率2%计算至全部借款本金清偿之日止）”为被上诉人陈玲于本判决生效之日起十日内归还上诉人金南山借款本金17,185,595.89元及利息（利息计至2018年10月29日为14,362,796.79元，自2018年10月30日起，按月利率2%计算至全部借款本金清偿之日止）；三、变更江西省九江市中级人民法院（2019）赣04民初13号民事判决第二项即“被告温保刚对被告陈玲偿付原告金南山以上借款及利息承担连带清偿责任”为被上诉人温保刚对被上诉人陈玲偿付上诉人金南山前项判决确定的义务承担连带清偿责任，被上诉人温保刚承担保证责任后，有权向被上诉人陈玲追偿；四、驳回上诉人金南山的其他诉讼请求。"
+    ],
+    "judgment_text_first": "（2019）赣04民初13号 判决如下：被告陈玲于本判决生效之日起十日内归还原告金南山借款本金1765万元，并偿付借款利息（利息从2019年1月11日起，按月利率2%计算至全部借款本金清偿之日止)；二、被告温保刚对被告陈玲偿付原告金南山以上借款及利息承担连带清偿责任；三、驳回原告金南山在本案中的其他诉讼请求。",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "withdraw_ci",
+      "gt_terminal": "first_withdrawal",
+      "gt_plaintiff": "draw",
+      "gt_defendant": "draw"
+    },
+    "multi_party": {
+      "count": 2,
+      "names": [
+        "陈玲",
+        "温保刚"
+      ]
+    }
+  },
+  {
+    "case_id": 1102,
+    "original_id": 1102,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）陕0102民初608号",
+    "court_1": "西安市新城区人民法院",
+    "case_number_2": "（2019）陕01民终11851号",
+    "court_2": "陕西省西安市中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "王雷",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "西安市新城区",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "梁欢",
+        "party_type": "自然人",
+        "gender": "女",
+        "address": "陕西省咸阳市乾县",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "王雷与梁欢发生民间借贷纠纷。一审案号（2019）陕0102民初608号。新城区。委托诉讼代理人：苏小军，陕西邦维律师事务所律师。被告：梁欢，女，1991年3月2日出生，汉族，住陕西省咸阳市乾县。委托诉讼代理人：张龙，陕西尚文律师事务所律师。原告王雷与被告梁欢返还财产纠纷一案，本院受理后，依法组成合议庭，公开开庭进行了审理。原告王雷委托诉讼代理人苏小军，被告梁欢委托诉讼代理人张龙到庭参加了诉讼。本案\n【原告方当事人指令】原告王雷明确指令：与被告私下达成还款安排后，必须撤回起诉，不继续开庭。",
+      "client_plaintiff": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "转账",
+          "银行流水"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 1,
+        "detail": "原告申请撤回起诉"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 2480.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_annual": null,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "转账",
+          "银行流水"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "win",
+        "defendant": "lose"
+      },
+      "second": {
+        "kind": null,
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）陕0102民初608号 原告王雷与被告梁欢民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告梁欢归还原告王雷借款本金2480元；二、利息按年利率24%上限计付；三、案件受理费减半收取，由被告梁欢负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 2480.0,
+          "settlement_interest_cap": "年利率24%上限"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）陕01民终11851号 上诉人梁欢因与被上诉人王雷民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以2480元为基数）；二、二审案件受理费由上诉人梁欢负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 2480.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）陕0102民初608号 原告王雷以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告王雷撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）陕01民终11851号 上诉人梁欢向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人梁欢撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      ""
+    ],
+    "defense_gt": "其对外放款开展过桥贷业务是通过股东三人决议后进行的，属于公司行为而非个人行为，被告的这一辩称形成一个新的主张，应提供相关证据予以证明，但被告并未提供对外开展放款业务的相关股东决议，故该辩称不予采纳",
+    "appeal_requests_gt": {
+      "claim": [
+        ""
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "，原告王雷从2017年4月11日到2017年7月13日期间，多次向被告梁欢转款，分别于2017年4月11日转款15万元，2017年4月19日转款15万元，2017年6月27日转款28万元，2017年7月1日转款30万元，2017年7月13日转款29万元，2017年7月17日转款2480元，以上共计1172480元。同时被告梁欢也存在多次向原告打款记录，包括2017年7月3日转款18766.7元，2017年7月5日向原告转款5万元，2017年7月11日向原告转款3万元，2017年7月14日转款5000元，2017年7月28日转款25664.5元，2017年8月23日转款95000元，2017年8月30日转款32400元，2017年9月20日转款1万元，2017年9月30日转款15000元，2017年10月11日转款13400元，2017年10月12日转款41525元，2017年11月6日转款…",
+    "opinion_gt": "虽然本案中原、被告，以及案外人魏某某为股东设立的陕西广安宝德企业管理有限公司是以财务及出纳梁欢的私人账户进行公司日常资金流转，但被告承认涉案款项用于过桥贷对外放款，而非用于公司在工商部门登记的业务范畴。现原告主张其向被告所转款项被告并未用于公司实际经营，而是用于被告个人对外投资并提交了银行转款凭证，被告辩称其对外放款开展过桥贷业务是通过股东三人决议后进行的，属于公司行为而非个人行为，被告的这一辩称形成一个新的主张，应提供相关证据予以证明，但被告并未提供对外开展放款业务的相关股东决议，故该辩称不予采纳。纵观本案证据，虽然原、被告以及案外人魏某某均表面上以公司工资、股东按比例分红的形式发放提成和收益，但其本质上是原告将投资款转入被告账户，被告以其社会资源开展放贷业务，所赚取利润用于向原告支付融资利息、提成，并额外分红的投资关系，广安宝德公司只是为实现投资合作的外在形式。现原告要求被告返回投资款…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "被告梁欢于本判决生效后十日内返还原告王雷50万元。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉，维持原判。 二审案件受理费8800元，由梁欢负担。 本判决为终审判决。"
+    ],
+    "judgment_text_first": "（2019）陕0102民初608号 判决如下：被告梁欢于本判决生效后十日内返还原告王雷50万元。",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "withdraw_ci",
+      "gt_terminal": "first_withdrawal",
+      "gt_plaintiff": "draw",
+      "gt_defendant": "draw"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "梁欢"
+      ]
+    }
+  },
+  {
+    "case_id": 3502,
+    "original_id": 3502,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）川0724民初1658号",
+    "court_1": "四川省绵阳市安州区人民法院",
+    "case_number_2": "（2019）川07民终3123号",
+    "court_2": "四川省绵阳市中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "缑正军",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "赵福金作了担保，能不能让他一起还？",
+            "reference_answer": "若赵福金构成连带保证，可就依法确定的本金、合法利息及约定范围内的实现债权费用承担连带责任。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "赵福金",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "low",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "缑正军与赵福金、绵阳汉和建材有限公司发生民间借贷纠纷。一审案号（2019）川0724民初1658号。1.判令被告赵福金偿还借款本金26万元及资金利息（2016年1月29日之前的利息为8.6万元；从2016年11日起按年利率6%计算利息至借款还清之日止）；2.本案诉讼费由被告赵福金承担。 被告方面：\n【原告方当事人指令】原告缑正军明确指令：与被告私下达成还款安排后，必须撤回起诉，不继续开庭。",
+      "client_plaintiff": {
+        "borrow_amount": "1.判令被告赵福金偿还借款本金26万元及资金利息（2016年1月29日之前的利息为8.6万元；从2016年11日起按年利率6%计算利息至借款还清之日止）；2.本案诉讼费由被告赵福金承担。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条",
+          "转账",
+          "借款合同"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 1,
+        "detail": "原告申请撤回起诉"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 4300.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_annual": 0.06,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条",
+          "转账",
+          "借款合同"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": true
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "win",
+        "defendant": "lose"
+      },
+      "second": {
+        "kind": null,
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）川0724民初1658号 原告缑正军与被告赵福金民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告赵福金归还原告缑正军借款本金4300元；二、利息按年利率6%计付；三、案件受理费减半收取，由被告赵福金负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 4300.0,
+          "settlement_interest_cap": "年利率6%"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）川07民终3123号 上诉人赵福金因与被上诉人缑正军民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以4300元为基数）；二、二审案件受理费由上诉人赵福金负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 4300.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）川0724民初1658号 原告缑正军以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告缑正军撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）川07民终3123号 上诉人赵福金向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人赵福金撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      "1.判令被告赵福金偿还借款本金26万元及资金利息（2016年1月29日之前的利息为8.6万元；从2016年11日起按年利率6%计算利息至借款还清之日止）；2.本案诉讼费由被告赵福金承担。"
+    ],
+    "defense_gt": "",
+    "appeal_requests_gt": {
+      "claim": [
+        "1.请求撤销原判，依法改判；2.本案上诉费由"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "：2013年1月31日，原告缑正军通过中国银行游仙支行向安县汉和建材有限公司中国银行安县广厦景园支行账户（11&times;&times;&times;74）转账20万元，汇款用途&ldquo;借款&rdquo;。2016年1月29日，被告赵福金出具借条一张，约定：&ldquo;今借到缑正军现金26万元，定于归还时间2016年10月。安县汉和公司借款人赵福金&rdquo;。赵福金在此借条下面部分注明&ldquo;在还此款补还上述借款欠的20个月利息：26万元每月利息4300元共计20个月8.6万元。赵福金&rdquo;。赵福金在此借条后面注明&ldquo;赵福金与缑正军之前的一切借条和借款合同全部作废。赵福金2016年1月29日&rdquo;。 另查明： 1、在2013年1月31日后至2016年1月29日之前，被告赵福金以其中国银行安州支行11&times;&times;&times;40…",
+    "opinion_gt": "本案争议的2016年1月29日的借条实际产生的借款时间在2013年1月31日（原告缑正军将20万元作为借款转入被告汉和公司账户），从2016年1月29日的借条下面部分可以知晓该笔借款前期的利息为每月4300元，赵福金以个人账户转账和ATM现金存款的方式向原告每次支付4300元或4330元共计支付了66800元利息；2016年1月29日，在原告借款未得到清偿的情况下，被告赵福金当时作为汉和公司的法定代表人以个人名义&ldquo;借款人：赵福金&rdquo;向原告出具了借条（未在借条上加盖汉和公司的公章），且以个人名义在借条下面部分对所欠原告的借款利息进行了明确、在借条背后对赵福金个人与原告之前的债权债务进行了声明。综上，原告缑正军在2013年不论是向汉和公司的出借款还是向赵福金个人的出借款，在2016年1月29日已经完全转移为被告赵福金个人的借款，汉和公司不再是本案的借款主体。汉和公司在20…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "由被告赵福金在本判决生效之日起五日内向原告缑正军偿还借款260000元及利息（2016年1月29日之前的利息为86000元，从2016年11月起按年利率6%结算利息至借款付清之日止）。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉，维持原判。 二审案件受理费4164元，由上诉人赵福金承担。 本判决为终审判决。"
+    ],
+    "judgment_text_first": "（2019）川0724民初1658号 判决如下：由被告赵福金在本判决生效之日起五日内向原告缑正军偿还借款260000元及利息（2016年1月29日之前的利息为86000元，从2016年11月起按年利率6%结算利息至借款付清之日止）。",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "withdraw_ci",
+      "gt_terminal": "first_withdrawal",
+      "gt_plaintiff": "draw",
+      "gt_defendant": "draw"
+    },
+    "multi_party": {
+      "count": 2,
+      "names": [
+        "赵福金",
+        "绵阳汉和建材有限公司"
+      ]
+    }
+  },
+  {
+    "case_id": 4702,
+    "original_id": 4702,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）津0103民初2144号",
+    "court_1": "天津市河西区人民法院",
+    "case_number_2": "（2019）津02民终6468号",
+    "court_2": "天津市第二中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "李树盛",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "段力圣",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "李树盛与段力圣发生民间借贷纠纷。一审案号（2019）津0103民初2144号。1.段力圣偿还借款本金50000元；2.段力圣以50000元为基数，以年利率6%为标准，支付自2018年10月25日至实际给付日的借款利息；3.本案诉讼费用由段力圣承担。 被告方面：\n【原告方当事人指令】原告李树盛明确指令：与被告私下达成还款安排后，必须撤回起诉，不继续开庭。",
+      "client_plaintiff": {
+        "borrow_amount": "1.段力圣偿还借款本金50000元；2.段力圣以50000元为基数，以年利率6%为标准，支付自2018年10月25日至实际给付日的借款利息；3.本案诉讼费用由段力圣承担。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条",
+          "转账",
+          "借款合同",
+          "银行流水"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 1,
+        "detail": "原告申请撤回起诉"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 50000.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_annual": 0.06,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条",
+          "转账",
+          "借款合同",
+          "银行流水"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "win",
+        "defendant": "lose"
+      },
+      "second": {
+        "kind": null,
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）津0103民初2144号 原告李树盛与被告段力圣民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告段力圣归还原告李树盛借款本金50000元；二、利息按年利率6%计付；三、案件受理费减半收取，由被告段力圣负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 50000.0,
+          "settlement_interest_cap": "年利率6%"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）津02民终6468号 上诉人段力圣因与被上诉人李树盛民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以50000元为基数）；二、二审案件受理费由上诉人段力圣负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 50000.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）津0103民初2144号 原告李树盛以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告李树盛撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）津02民终6468号 上诉人段力圣向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人段力圣撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      "1.段力圣偿还借款本金50000元；2.段力圣以50000元为基数，以年利率6%为标准，支付自2018年10月25日至实际给付日的借款利息；3.本案诉讼费用由段力圣承担。"
+    ],
+    "defense_gt": "",
+    "appeal_requests_gt": {
+      "claim": [
+        "1.撤销一审判决，发回重审或依法改判上诉人不偿还"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "：李树盛与段力圣系朋友关系。2012年3月14日李树盛从中国银行股份有限公司取款50000元并出借给段力圣。段力圣于借款当日予以书面确认：“今借李树盛人民币伍万元整，过后归还”。因本次纠纷，李树盛曾将段力圣诉至本院，后李树盛申请撤诉。",
+    "opinion_gt": "自然人之间的借款合同，自贷款人提供借款时生效。本案中，综合李树盛提供的证据，可以证实其从银行取款并出借给段力圣50000元，双方的借款合同成立生效。关于借款本金及利息问题，借款人应当按照约定的期限返还借款。对借款期限没有约定或者约定不明确，依照合同法第六十一条的规定仍不能确定的，借款人可以随时返还；出借人可以催告借款人在合理期限内返还。既未约定借期内的利率，也未约定逾期利率，出借人主张借款人自逾期还款之日起按照年利率6%支付资金占用期间利息的，人民法院应予支持。段力圣应当偿还李树盛借款本金50000元。关于利息，本院酌情以2019年2月12日为起始点，以50000元为基数，按照年利率6%标准对2019年2月12日起至实际给付之日止的利息予以支持。综上所述，依照《中华人民共和国合同法》第二百零六条、第二百一十条、《最高人民法院关于审理民间借贷案件适用法律若干问题的规定》第二十九条第二款第一项…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "本判决生效之日起十日内，被告段力圣偿还原告李树盛借款本金50000元及利息（自2019年2月12日起至实际给付之日止，按年利率6%计算）；二、驳回原告李树盛的其他诉讼请求。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉，维持原判。二审案件受理费1050元，由上诉人段力圣负担。本判决为终审判决。"
+    ],
+    "judgment_text_first": "（2019）津0103民初2144号 判决如下：本判决生效之日起十日内，被告段力圣偿还原告李树盛借款本金50000元及利息（自2019年2月12日起至实际给付之日止，按年利率6%计算）；二、驳回原告李树盛的其他诉讼请求。",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "withdraw_ci",
+      "gt_terminal": "first_withdrawal",
+      "gt_plaintiff": "draw",
+      "gt_defendant": "draw"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "段力圣"
+      ]
+    }
+  },
+  {
+    "case_id": 6902,
+    "original_id": 6902,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）赣0112民初2440号",
+    "court_1": "江西省南昌市新建区人民法院",
+    "case_number_2": "（2019）赣01民终3349号",
+    "court_2": "江西省南昌市中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "李江娈",
+        "party_type": "自然人",
+        "gender": "女",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "在有财产线索且符合保全条件时，可申请财产保全；被保全人应为案件当事人，金额不超过主张的本息范围。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "徐金虎",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "李江娈与徐金虎、熊和香发生民间借贷纠纷。一审案号（2019）赣0112民初2440号。1、判令被告归还原告借款本金300000元；2、判令被告支付原告借款利息48000元（利息自2018年11月22日起暂计算至2019年6月22日，利息应按月利率2%计算至借款清偿日止）；3、本案诉讼费和财产保全费由被告承担。 被告方面：\n【原告方当事人指令】原告李江娈明确指令：与被告私下达成还款安排后，必须撤回起诉，不继续开庭。",
+      "client_plaintiff": {
+        "borrow_amount": "1、判令被告归还原告借款本金300000元；2、判令被告支付原告借款利息48000元（利息自2018年11月22日起暂计算至2019年6月22日，利息应按月利率2%计算至借款清偿日止）；3、本案诉讼费和财产保全费由被告承担。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条",
+          "转账",
+          "聊天记录",
+          "微信",
+          "银行流水"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 1,
+        "detail": "原告申请撤回起诉"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 300000.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_monthly": 0.03,
+        "rate_annual": 0.24,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条",
+          "转账",
+          "聊天记录",
+          "微信",
+          "银行流水"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "win",
+        "defendant": "lose"
+      },
+      "second": {
+        "kind": null,
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）赣0112民初2440号 原告李江娈与被告徐金虎民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告徐金虎归还原告李江娈借款本金300000元；二、利息按年利率24%计付；三、案件受理费减半收取，由被告徐金虎负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 300000.0,
+          "settlement_interest_cap": "年利率24%"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）赣01民终3349号 上诉人徐金虎因与被上诉人李江娈民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以300000元为基数）；二、二审案件受理费由上诉人徐金虎负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 300000.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）赣0112民初2440号 原告李江娈以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告李江娈撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）赣01民终3349号 上诉人徐金虎向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人徐金虎撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      "1、判令被告归还原告借款本金300000元；2、判令被告支付原告借款利息48000元（利息自2018年11月22日起暂计算至2019年6月22日，利息应按月利率2%计算至借款清偿日止）；3、本案诉讼费和财产保全费由被告承担。"
+    ],
+    "defense_gt": "",
+    "appeal_requests_gt": {
+      "claim": [
+        "1、依法判决撤销南昌市新建区人民法院（2019）赣0112民初2440号民事判决书中第三项判决；2、依法改判"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "的事实不符，对两被告就原告提供的证据4提出的质证意见不予采纳。对原告提供的证据6、7、8、9的真实性予以确认，但原告仅就上述证据不能达到其所要证明的两被告向其转款是支付借款利息的证明目的，对上述证据的证明观点不予采纳。经庭审质证认证并结合原、被告的当庭陈述，本院认定事实如下：原告李江娈与被告熊和香系朋友关系，被告熊和香与被告徐金虎系夫妻关系。2018年3月22日，被告熊和香以需资金周转为由提出向原告借款300000元，原告当日经工商银行账户向被告徐金虎银行账户转款300000元，被告徐金虎在借款同日向原告出具借条一份，载明：“今借到李江娈人民币叁拾万元整（300000），于2018年7月22日还清，如有逾期愿承担一切法律责任。”被告徐金虎在借款当日向原告转款9000元，此后，被告徐金虎在2018年4月22日及7月22日经支付宝账户向分两次按每笔9000元，共计向原告转款18000元；同年5…",
+    "opinion_gt": "被告徐金虎向原告李江娈借款,有原告提供的借条及其本人银行转账凭证印证，双方的借贷关系合法有效，应受法律保护。被告徐金虎未在约定期限归还原告全部借款，原告据此向被告徐金虎主张权利，合理部分应予支持。本案原被告争议的焦点一：案涉300000元借款是否约定借款利息，本院认为，《最高人民法院关于审理民间借贷案件适用法律若干问题的规定》第二十五条：“借贷双方没有约定利息，出借人主张支付借期内利息的，人民法院不予支持。自然人之间借贷对利息约定不明，出借人主张支付利息的，人民法院不予支持。”、第二十九条：“借贷双方对逾期利率有约定的，从其约定，但以不超过年利率24%为限。未约定逾期利率或者约定不明的，人民法院可以区分不同情况处理：（一）既未约定借期内的利率，也未约定逾期利率，出借人主张借款人自逾期还款之日起按照年利率6%支付资金占用期间利息的，人民法院应予支持。”本案原告出具的借条中无借款利息的约定，原…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "由被告徐金虎在本判决生效后十日内归还原告李江娈借款本金234000元及利息（借款利息自2019年7月18日起按年利率6%计算至234000元借款清偿日止）；被告熊和香对上述借款本金及利息承担连带还款责任；驳回原告李江娈的其他诉讼请求。"
+    ],
+    "final_judgment_gt_2": [
+      "由徐金虎在本判决生效后十日内归还李江娈借款本金234000元及利息（借款利息自2019年7月18日起按年利率6%计算至234000元借款清偿日止）；二、熊和香对上述借款本金及利息承担连带还款责任；三、驳回李江娈的其他诉讼请求。"
+    ],
+    "judgment_text_first": "（2019）赣0112民初2440号 判决如下：由被告徐金虎在本判决生效后十日内归还原告李江娈借款本金234000元及利息（借款利息自2019年7月18日起按年利率6%计算至234000元借款清偿日止）；被告熊和香对上述借款本金及利息承担连带还款责任；驳回原告李江娈的其他诉讼请求。",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "withdraw_ci",
+      "gt_terminal": "first_withdrawal",
+      "gt_plaintiff": "draw",
+      "gt_defendant": "draw"
+    },
+    "multi_party": {
+      "count": 2,
+      "names": [
+        "徐金虎",
+        "熊和香"
+      ]
+    }
+  },
+  {
+    "case_id": 101,
+    "original_id": 101,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2018）辽0522民初3201号",
+    "court_1": "桓仁满族自治县人民法院",
+    "case_number_2": "（2019）辽05民终749号",
+    "court_2": "辽宁省本溪市中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "高宏",
+        "party_type": "自然人",
+        "gender": "女",
+        "address": "辽宁省桓仁满族自治县",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "吕玥",
+        "party_type": "自然人",
+        "gender": "女",
+        "address": "辽宁省桓仁满族自治县",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "高宏与吕玥、焦军发生民间借贷纠纷。一审案号（2018）辽0522民初3201号。1、请求判令二被告偿还借款本金8万元并自借款之日起至还款时按年利率24%给付利息；2、由二被告承担诉讼费用。 被告方面：\n【原告方底线】本金按实际出借额（考虑预扣或已还后的余额）必须拿回；利息可让至年利率保护上限以内；不追加案外人。\n【被告方底线】同意还实际出借本金；利息不超过保护上限；可分期。",
+      "client_plaintiff": {
+        "borrow_amount": "1、请求判令二被告偿还借款本金8万元并自借款之日起至还款时按年利率24%给付利息；2、由二被告承担诉讼费用。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条",
+          "欠条"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 1,
+        "stage": "CI",
+        "outcome": "成立"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 10900.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_monthly": 0.02,
+        "rate_annual": 0.24,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条",
+          "欠条"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "win",
+        "defendant": "lose"
+      },
+      "second": {
+        "kind": null,
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2018）辽0522民初3201号 原告高宏与被告吕玥民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告吕玥归还原告高宏借款本金10900元；二、利息按年利率24%计付；三、案件受理费减半收取，由被告吕玥负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 10900.0,
+          "settlement_interest_cap": "年利率24%"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）辽05民终749号 上诉人吕玥因与被上诉人高宏民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以10900元为基数）；二、二审案件受理费由上诉人吕玥负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 10900.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2018）辽0522民初3201号 原告高宏以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告高宏撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）辽05民终749号 上诉人吕玥向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人吕玥撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "利息标准",
+      "本金认定"
+    ],
+    "claims_gt": [
+      "1、请求判令二被告偿还借款本金8万元并自借款之日起至还款时按年利率24%给付利息；2、由二被告承担诉讼费用。"
+    ],
+    "defense_gt": "",
+    "appeal_requests_gt": {
+      "claim": [
+        "撤销原审判决，依法改判焦军不承担给付责任。事实及理由：1、一审认定有强迫焦军事后追认债务意思表达之嫌，与事实严重不符。2、一审认定焦军陈述其夫妻二人名下还有其他债务说明借债的必然性和可能性与事实不符。3、一审吕玥姐夫田孝君出具的两张收条，并非证明高宏与田孝君有借贷关系，只是证明借款用途及去向明确。4、借款利息未按当事人口述事实判决有违公正。5、吕玥与高宏借贷行为是个人行为，借条签名只是吕玥个人，并无夫妻共同举债合意，不符合夫妻共同债务。6、焦军有固定收入，不需要举债度日，吕玥个人为其姐夫倒钱、串钱行为，不符合为家庭日常生活需要所负的债务。7、吕玥在欺瞒焦军的情况下，以个人名义多次借款欠下百万债务，吕玥的个人借贷行为及欠款严重超出家庭正常生活所需，应由吕玥个人承担。 高宏辩称：一审判决正确，应予以维持。 吕玥辩称：与焦军上诉理由一致。 高宏向一审法院起诉请求：1、判令焦军、吕玥偿还借款本金8万元并自借款之日起至还款时按年利率24%给付利息；2、由焦军、吕玥承担诉讼费用。 一审法院认定事实：吕玥分别于2014年4月9日向高宏借款2万元，于2014年4月15日借款3万元，于2015年7月28日借款3万元，吕玥分别出具了借据。双方口头约定月利息按照2%计算。从2016年4月18日到2016年10月20日吕玥、焦军分8次向高宏和案外人刘振刚共偿还利息10900元。高宏和案外人刘振刚系同居关系"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "，被告吕玥分别于2014年4月9日向原告高宏借款2万元，于2014年4月15日借款3万元，于2015年7月28日借款3万元，被告吕玥分别出具了借据。双方口头约定月利息按照2%计算。从2016年4月18日到2016年10月20日被告吕玥、被告焦军分8次向原告高宏和案外人刘振刚共偿还利息10900元。原告高宏和案外人刘振刚系同居关系。原告高宏多次向被告吕玥、被告焦军催要借款，被告吕玥、被告焦军推脱至今未还款。现原告高宏要求被告吕玥、被告焦军给付借款本金8万元及利息诉至本院。另查明，被告焦军与被告吕玥系夫妻关系。被告吕玥有工作单位但其没有到单位上班，夫妻二人还有其他债务。上述事实，有原告陈述、被告答辩、借据、银行交易明细、刘振刚询问笔录等在卷佐证，经庭审质证及本院审查，予以确认。",
+    "opinion_gt": "（一）原告高宏与被告吕玥、焦军之间的借贷关系成立。1、原告高宏持有被告吕玥签字的借据主张权利，本院予以支持。被告吕玥主张其姐夫田孝君做生意需用资金，其向原告高宏借的款被田孝君使用并提交了两份田孝君出具的收条复印件。被告吕玥的主张及提交的证据不足以证明原告高宏与田孝君之间有借贷关系，原告高宏提交的由被告吕玥签字的借据主张其二人之间的借贷关系成立，本院予以支持；2、被告焦军与被告吕玥系夫妻关系，被告焦军主张其是国电电力和禹水电开发公司的中层领导，其在2014年和2015年每年年薪收入13万余元。被告吕玥陈述主要依靠丈夫的工资收入生活，被告焦军陈述其夫妻二人名下还有其他债务。综上，被告吕玥在夫妻关系存息期间向原告高宏借款，被告焦军及被告吕玥主张该债务系被告吕玥个人债务的依据不充分，本院不予采信；（二）原告高宏和被告吕玥口头约定按照月息2%给付利息。被告吕玥、被告焦军于2016年4月18日至201…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "被告吕玥、被告焦军向原告高宏偿还借款本金8万元及利息，利息分别计算，第一笔借款2万元的利息从2014年4月9日至判决确定给付之日止，第二笔借款3万元的利息从2014年4月15日至判决确定给付之日止，第三笔借款3万元的利息从2015年7月28日至判决确定给付之日止，均按照年息24%计算。从以上利息中扣除被告吕玥、被告焦军已经偿还的利息10900元。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉，维持原判。 二审案件受理费八百元，由上诉人焦军负担。 本判决为终审判决。"
+    ],
+    "judgment_text_first": "（2018）辽0522民初3201号 判决如下：被告吕玥、被告焦军向原告高宏偿还借款本金8万元及利息，利息分别计算，第一笔借款2万元的利息从2014年4月9日至判决确定给付之日止，第二笔借款3万元的利息从2014年4月15日至判决确定给付之日止，第三笔借款3万元的利息从2015年7月28日至判决确定给付之日止，均按照年息24%计算。从以上利息中扣除被告吕玥、被告焦军已经偿还的利息10900元。",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "mediation_ci",
+      "gt_terminal": "first_mediation",
+      "gt_plaintiff": "draw",
+      "gt_defendant": "draw"
+    },
+    "multi_party": {
+      "count": 2,
+      "names": [
+        "吕玥",
+        "焦军"
+      ]
+    }
+  },
+  {
+    "case_id": 401,
+    "original_id": 401,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2018）黑10民初243号",
+    "court_1": "黑龙江省牡丹江市中级人民法院",
+    "case_number_2": "（2019）黑民终291号",
+    "court_2": "黑龙江省高级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "宁安市雅盛现代农业发展有限责任公司",
+        "party_type": "法人",
+        "gender": "",
+        "address": "宁安市宁安镇，经营场所宁安市沙兰镇",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "关世才",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "low",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "宁安市雅盛现代农业发展有限责任公司与关世才发生民间借贷纠纷。一审案号（2018）黑10民初243号。1.依法确认原、被告之间2010年9月30日签订的借款合同、2010年12月30日签订的借款合同、2011年3月10日签订的借款合同、2011年4月21日签订的借款合同无效；2.判令被告返还因合同无效而收取的原告已经支付给被告的借款利息1013万元；3.诉讼费用由被告承担。 被告方面：\n【原告方底线】本金按实际出借额（考虑预扣或已还后的余额）必须拿回；利息可让至年利率保护上限以内；保证人可保留。\n【被告方底线】同意还实际出借本金；利息不超过保护上限；可分期。",
+      "client_plaintiff": {
+        "borrow_amount": "1.依法确认原、被告之间2010年9月30日签订的借款合同、2010年12月30日签订的借款合同、2011年3月10日签订的借款合同、2011年4月21日签订的借款合同无效；2.判令被告返还因合同无效而收取的原告已经支付给被告的借款利息1013万元；3.诉讼费用由被告承担。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借款合同"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 1,
+        "stage": "CI",
+        "outcome": "成立"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 10130000.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_monthly": 0.02,
+        "rate_annual": 0.36,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借款合同"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": true
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "lose",
+        "defendant": "win"
+      },
+      "second": {
+        "kind": null,
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2018）黑10民初243号 原告宁安市雅盛现代农业发展有限责任公司与被告关世才民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告关世才归还原告宁安市雅盛现代农业发展有限责任公司借款本金10130000元；二、利息按年利率24%上限计付；三、案件受理费减半收取，由被告关世才负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 10130000.0,
+          "settlement_interest_cap": "年利率24%上限"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）黑民终291号 上诉人关世才因与被上诉人宁安市雅盛现代农业发展有限责任公司民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以10130000元为基数）；二、二审案件受理费由上诉人关世才负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 10130000.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2018）黑10民初243号 原告宁安市雅盛现代农业发展有限责任公司以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告宁安市雅盛现代农业发展有限责任公司撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）黑民终291号 上诉人关世才向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人关世才撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      "1.依法确认原、被告之间2010年9月30日签订的借款合同、2010年12月30日签订的借款合同、2011年3月10日签订的借款合同、2011年4月21日签订的借款合同无效；2.判令被告返还因合同无效而收取的原告已经支付给被告的借款利息1013万元；3.诉讼费用由被告承担。"
+    ],
+    "defense_gt": "",
+    "appeal_requests_gt": {
+      "claim": [
+        "本案应发回重审或依法改判支持其诉讼请求；一、二审诉讼费用由关世才承担。"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "： 雅盛公司原名为宁安市雅盛农副产品贸易有限公司，于2017年3月22日更名为雅盛公司。雅盛公司因建筑工程项目急需，该公司法定代表人孟宪君找到其朋友徐传良，意通过徐传良向徐传良亲属关世才借款，用于雅盛公司购买材料。通过徐传良介绍，雅盛公司与关世才于2010年9月30日签订《借款合同书》，合同约定：雅盛公司向关世才借款140万元；借款期限为12个月，自2010年9月30日至2011年9月30日；借款利率为月息2%，如雅盛公司未能按期偿还借款本息，按月息3%计息；雅盛公司以其所享有的地号&times;&times;-&times;-&times;&times;&times;-&times;-&times;土地使用权和江南明星敬老院作为抵押等。此后，雅盛公司因工程项目需急用款，又分三次向关世才借款共计450万元，并分别签订了借款合同。其中：1.2010年12月30日向关世才借款150万元，合同约…",
+    "opinion_gt": "雅盛公司与关世才签订的4份《借款合同》系双方真实意思表示，除双方于2011年4月21日签订《借款合同》约定的逾期利率过高之外，其他部分内容不违反法律和行政法规的强制性规定，亦不存在《中华人民共和国合同法》第五十二条、《最高人民法院关于审理民间借贷案件适用法律若干问题的规定》第十四条规定的情形，应认定合法有效。因雅盛公司抵押担保的财产未办理抵押登记，故抵押部分无效。 雅盛公司主张关世才违反《中华人民共和国银行业监督管理法》第十九条的规定，从事银行业金融机构的业务活动。对此本院认为，从事银行业金融机构的业务活动，是指下列行为：1.非法吸收公众存款或者变相吸收公众存款；2.非法集资；3.非法发放贷款、办理结算票据贴现、资金拆借、信托投资、金融租赁、融资担保、外汇买卖；4.银行业监督管理机构认定的其他非法银行业金融业务活动等。《中华人民共和国民法通则》第九十条规定：&ldquo;合法的借贷关系受法…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "驳回原告宁安市雅盛现代农业发展有限责任公司对被告关世才的诉讼请求。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉,维持原判。二审案件受理费82,580元，由宁安市雅盛现代农业发展有限责任公司负担。本判决为终审判决。"
+    ],
+    "judgment_text_first": "（2018）黑10民初243号 判决如下：驳回原告宁安市雅盛现代农业发展有限责任公司对被告关世才的诉讼请求。",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "mediation_ci",
+      "gt_terminal": "first_mediation",
+      "gt_plaintiff": "draw",
+      "gt_defendant": "draw"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "关世才"
+      ]
+    }
+  },
+  {
+    "case_id": 1201,
+    "original_id": 1201,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）皖0811民初1195号",
+    "court_1": "安徽省安庆市宜秀区人民法院",
+    "case_number_2": "（2019）皖08民终2195号",
+    "court_2": "安徽省安庆市中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "吴宝富",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "在有财产线索且符合保全条件时，可申请财产保全；被保全人应为案件当事人，金额不超过主张的本息范围。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "方光清",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "吴宝富与方光清、左克清发生民间借贷纠纷。一审案号（2019）皖0811民初1195号。1、请求判令两被告连带偿还原告借款本金500000元整及利息(自2014年12月23日起按照月利率2%计算至实际清偿完毕之日止)；2、案件受理费11600元、保全费4670元由两被告承担。 被告方面：2014年12月23日两被告向原告借款500000元是事实，但在借款时双方未约定按月利率2%给付利息，两被告借款以\n【原告方底线】本金按实际出借额（考虑预扣或已还后的余额）必须拿回；利息可让至年利率保护上限以内；不追加案外人。\n【被告方底线】同意还实际出借本金；利息不超过保护上限；可分期。",
+      "client_plaintiff": {
+        "borrow_amount": "1、请求判令两被告连带偿还原告借款本金500000元整及利息(自2014年12月23日起按照月利率2%计算至实际清偿完毕之日止)；2、案件受理费11600元、保全费4670元由两被告承担。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条",
+          "借款合同"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "2014年12月23日两被告向原告借款500000元是事实，但在借款时双方未约定按月利率2%给付利息，两被告借款以后先后向原告归还本金250000元。当事人围绕诉讼请求依法提交了证据，本院组织当事人进行了证据交换和质证。对原、被告提交的证据的真实性本院予以确认并在卷佐证。根据当事人陈述和经审查确认的证据，本院认定事实如下：2013年4月22日被告方光清、左克清向原告借款500000元，原告将出借款",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 1,
+        "stage": "CI",
+        "outcome": "成立"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 500000.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_monthly": 0.02,
+        "rate_annual": 0.24,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条",
+          "借款合同"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "win",
+        "defendant": "lose"
+      },
+      "second": {
+        "kind": null,
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）皖0811民初1195号 原告吴宝富与被告方光清民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告方光清归还原告吴宝富借款本金500000元；二、利息按年利率24%计付；三、案件受理费减半收取，由被告方光清负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 500000.0,
+          "settlement_interest_cap": "年利率24%"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）皖08民终2195号 上诉人方光清因与被上诉人吴宝富民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以500000元为基数）；二、二审案件受理费由上诉人方光清负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 500000.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）皖0811民初1195号 原告吴宝富以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告吴宝富撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）皖08民终2195号 上诉人方光清向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人方光清撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "利息标准",
+      "保全费用"
+    ],
+    "claims_gt": [
+      "1、请求判令两被告连带偿还原告借款本金500000元整及利息(自2014年12月23日起按照月利率2%计算至实际清偿完毕之日止)；2、案件受理费11600元、保全费4670元由两被告承担。"
+    ],
+    "defense_gt": "2014年12月23日两被告向原告借款500000元是事实，但在借款时双方未约定按月利率2%给付利息，两被告借款以后先后向原告归还本金250000元。当事人围绕诉讼请求依法提交了证据，本院组织当事人进行了证据交换和质证。对原、被告提交的证据的真实性本院予以确认并在卷佐证。根据当事人陈述和经审查确认的证据，本院认定事实如下：2013年4月22日被告方光清、左克清向原告借款500000元，原告将出借款转帐至被告方光清的银行帐户。2014年12月23日，被告方光清、左克清向原告出具借条一张，载明：“今借到吴宝富现金人民币伍拾万元（500000.00元）利息2%”。在原告的催索下，2016年12月18日两被告向原告出具《承诺书》一份，承诺于2017年2月18日争取还清。两被告陆续于2017年1月24日还款45000元，于2017年10月2日还款55000元，于2017年10月28日还款100000元，于2018年2月15日还款20000元，于2018年10月10日还款30000元，以上共计还款250000元。由于两被告未再还款，原告诉至法院。本院认为：本案在审理过程中，根据各方当事人的诉辩意见…",
+    "appeal_requests_gt": {
+      "claim": [
+        "1、撤销原审判决第一项，改判利息按年息7%计算；2、本案一审、二审受理费、财产保全费均由"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "：2013年4月22日被告方光清、左克清向原告借款500000元，原告将出借款转帐至被告方光清的银行帐户。2014年12月23日，被告方光清、左克清向原告出具借条一张，载明：“今借到吴宝富现金人民币伍拾万元（500000.00元）利息2%”。在原告的催索下，2016年12月18日两被告向原告出具《承诺书》一份，承诺于2017年2月18日争取还清。两被告陆续于2017年1月24日还款45000元，于2017年10月2日还款55000元，于2017年10月28日还款100000元，于2018年2月15日还款20000元，于2018年10月10日还款30000元，以上共计还款250000元。由于两被告未再还款，原告诉至法院。",
+    "opinion_gt": "：本案在审理过程中，根据各方当事人的诉辩意见，存在三项争议焦点：一、借条载明的利息2%应为年利率的约定还是月利率的约定；二、被告是否于2017年1月24日以现金方式向原告还款45000元；三、被告向原告还款的250000元应为清偿本金还是利息。针对焦点一。两被告向原告出具的借条载明利息2%，虽然利息书写潦草且未明确写明为月利率还是年利率，但结合原、被告以前发生过的借款交易习惯并结合民间资金市场的利息惯例，可认定被告书写的“利息2%”应为月利率2%。针对焦点二。被告向本院提交的银行提现记录和证人白某的证言以及原告在诉状上的自认形成证据链，可以证明被告于2017年1月24日以现金方式向原告清偿了45000元针对焦点三。两被告于2016年12月18日向原告出具的《承诺书》虽然只承诺了500000元借款本金的还款期限，但并未在该承诺书中明示原告的利息予以放弃，且被告亦未提交证据证明其与原告就利息的…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "被告方光清、左克清于本判决生效后十日内向原告吴宝富偿还借款本金500000元及利息（利息从2014年12月23日起按月利率2%计算至款清偿完毕之日止，已给付的250000元从利息中优先扣除）；二、驳回原告吴宝富的其他诉讼请求。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉，维持原判。 二审案件受理费6718.75元，由方光清、左克清负担。 本判决为终审判决。"
+    ],
+    "judgment_text_first": "（2019）皖0811民初1195号 判决如下：被告方光清、左克清于本判决生效后十日内向原告吴宝富偿还借款本金500000元及利息（利息从2014年12月23日起按月利率2%计算至款清偿完毕之日止，已给付的250000元从利息中优先扣除）；二、驳回原告吴宝富的其他诉讼请求。",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "mediation_ci",
+      "gt_terminal": "first_mediation",
+      "gt_plaintiff": "draw",
+      "gt_defendant": "draw"
+    },
+    "multi_party": {
+      "count": 2,
+      "names": [
+        "方光清",
+        "左克清"
+      ]
+    }
+  },
+  {
+    "case_id": 2101,
+    "original_id": 2101,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）吉2404民初1090号",
+    "court_1": "珲春市人民法院",
+    "case_number_2": "（2019）吉24民终1445号",
+    "court_2": "吉林省延边朝鲜族自治州中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "丁坤",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "郎振有",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "丁坤与郎振有发生民间借贷纠纷。一审案号（2019）吉2404民初1090号。要求郎振有偿还借款本金40000元及利息、违约金（自2015年1月10日起至还清之日止，按月利率1.5%计算）。 被告方面：\n【原告方底线】本金按实际出借额（考虑预扣或已还后的余额）必须拿回；利息可让至年利率保护上限以内；不追加案外人。\n【被告方底线】同意还实际出借本金；利息不超过保护上限；可分期。",
+      "client_plaintiff": {
+        "borrow_amount": "要求郎振有偿还借款本金40000元及利息、违约金（自2015年1月10日起至还清之日止，按月利率1.5%计算）。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条",
+          "欠条",
+          "转账",
+          "收据"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 1,
+        "stage": "CI",
+        "outcome": "成立"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 40000.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_annual": 0.24,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条",
+          "欠条",
+          "转账",
+          "收据"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "win",
+        "defendant": "lose"
+      },
+      "second": {
+        "kind": null,
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）吉2404民初1090号 原告丁坤与被告郎振有民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告郎振有归还原告丁坤借款本金40000元；二、利息按年利率24%计付；三、案件受理费减半收取，由被告郎振有负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 40000.0,
+          "settlement_interest_cap": "年利率24%"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）吉24民终1445号 上诉人郎振有因与被上诉人丁坤民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以40000元为基数）；二、二审案件受理费由上诉人郎振有负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 40000.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）吉2404民初1090号 原告丁坤以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告丁坤撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）吉24民终1445号 上诉人郎振有向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人郎振有撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "利息标准",
+      "本金认定"
+    ],
+    "claims_gt": [
+      "要求郎振有偿还借款本金40000元及利息、违约金（自2015年1月10日起至还清之日止，按月利率1.5%计算）。"
+    ],
+    "defense_gt": "",
+    "appeal_requests_gt": {
+      "claim": [
+        "请求二审法院依法改判郎振有不承担违约金。事实和理由：1、丁坤在起诉状诉讼请求第一项中要求郎振有偿还借款本金40000元及违约金，但是在开庭当天即2019年7月11日，在确认诉讼请求时丁坤要求郎振有偿还借款本金40000元及利息，丁坤变更了诉讼请求。2、本案的争议焦点归纳第4项为：丁坤主张的利息是否合理，双方当事人对归纳的争议焦点均无异议，也无补充。综上，请求二审法院依法改判郎振有不承担违约金。丁坤辩称，要求按照利息和违约金支付，在不违法的情况下，按照最高院规定的执行。丁坤向一审法院起诉请求：要求郎振有偿还借款本金40000元及利息（自2015年1月10日起至还清之日止，按月利率1.5%计算）。事实和理由：郎振有以搞工程为由，向丁坤借款60000元，另外郎振有应支付劳务费45000元。嗣后分期偿还65000元，剩余4万元至今未偿还。一审法院认定事实：2014年12月20日，郎振有向丁坤出具借条一份，内容为，“今借乙方人民币95000元，借款期限为2014年12月20日至2015年1月10日，还款方式为借款期限到期时乙方应一次性偿还甲方全部借款，违约责任：如果甲方不能按期归还借款，每拖延一天将按借款金额的0.3%做为违约金和损失赔偿乙方。甲方借款人：丁坤（签字）；乙方还款人：郎振有（签字）”。2017年1月20日，郎振有转账给丁坤70000元。2018年10月份，郎振有以现金形式偿还1"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "：2014年12月20日，郎振有向丁坤出具借条一份，内容为，“今借乙方人民币95000元，借款期限为2014年12月20日至2015年1月10日，还款方式为借款期限到期时乙方应一次性偿还甲方全部借款，违约责任：如果甲方不能按期归还借款，每拖延一天将按借款金额的0.3%做为违约金和损失赔偿乙方。甲方借款人：丁坤（签字）；乙方还款人：郎振有（签字）”。2017年1月20日，郎振有转账给丁坤70000元。2018年10月份，郎振有以现金形式偿还1万元。在庭审中，丁坤述称，该借条中的借款金额95000元并不包括劳务费，原、被告之间的借款本金为85000元和利息10000元，除借条中约定的95000元外，郎振有还应当支付劳务费25000元。",
+    "opinion_gt": "合同当事人应当按照约定履行义务。《最高人民法院关于审理民间借贷案件适用法律若干问题的规定》第十五条规定“原告以借据、收据、欠条等债权凭证为依据提起民间借贷诉讼，被告依据基础法律关系提出抗辩或者反诉，并提供证据证明债权关系纠纷非民间借贷行为引起的，人民法院应当依据查明的事实，按照基础法律关系审理。当事人通过调解、和解或者清算达成的债权债务协议，不适用前款规定。”根据《最高人民法院关于民事诉讼证据的若干规定》第七十四条规定“诉讼过程中，当事人在起诉状、答辩状、陈述及其委托代理人的代理词中承认的对己方不利的事实和认可的证据，人民法院应当予以确认，但当事人反悔并有相反证据足以推翻的除外。”本案中，丁坤在庭审中自认借条中的95000元由借款本金60000元及其利息10000元、劳务费25000元组成，但在庭审过程中反悔，并主张郎振有除借条中约定的债务95000元外，还应当另行支付劳务费25000元，…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "被告郎振有于本判决发生法律效力后，立即偿还原告丁坤15000元及违约金（自2015年1月11日起至2017年1月20日止，以85000元为基数；自2017年1月21日起至2018年10月31日止，以25000元为基数计算；自2018年11月1日起至实际还清之日止，以15000元为基数，均按月利率1.5%计算）"
+    ],
+    "final_judgment_gt_2": [
+      "撤销吉林省珲春市人民法院（2019）吉2404民初1090号民事判决；二、郎振有于本判决发生法律效力后，立即偿还丁坤借款本金15000元。"
+    ],
+    "judgment_text_first": "（2019）吉2404民初1090号 判决如下：被告郎振有于本判决发生法律效力后，立即偿还原告丁坤15000元及违约金（自2015年1月11日起至2017年1月20日止，以85000元为基数；自2017年1月21日起至2018年10月31日止，以25000元为基数计算；自2018年11月1日起至实际还清之日止，以15000元为基数，均按月利率1.5%计算）。",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "mediation_ci",
+      "gt_terminal": "first_mediation",
+      "gt_plaintiff": "draw",
+      "gt_defendant": "draw"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "郎振有"
+      ]
+    }
+  },
+  {
+    "case_id": 2201,
+    "original_id": 2201,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）沪0115民初9621号",
+    "court_1": "上海市浦东新区人民法院",
+    "case_number_2": "（2019）沪01民终9265号",
+    "court_2": "上海市第一中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "乐莹",
+        "party_type": "自然人",
+        "gender": "",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "毕京洲",
+        "party_type": "自然人",
+        "gender": "",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "乐莹与毕京洲发生民间借贷纠纷。一审案号（2019）沪0115民初9621号。1.判令被告偿还原告借款100万元；2.判令被告支付原告按借款100万元为基数，按年利率6%计算的自2015年12月23日起至实际还款日止的利息。 被告方面：\n【原告方底线】本金按实际出借额（考虑预扣或已还后的余额）必须拿回；利息可让至年利率保护上限以内；不追加案外人。\n【被告方底线】同意还实际出借本金；利息不超过保护上限；可分期。",
+      "client_plaintiff": {
+        "borrow_amount": "1.判令被告偿还原告借款100万元；2.判令被告支付原告按借款100万元为基数，按年利率6%计算的自2015年12月23日起至实际还款日止的利息。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条",
+          "转账"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 1,
+        "stage": "CI",
+        "outcome": "成立"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 13800.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_annual": 0.06,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条",
+          "转账"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "win",
+        "defendant": "lose"
+      },
+      "second": {
+        "kind": null,
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）沪0115民初9621号 原告乐莹与被告毕京洲民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告毕京洲归还原告乐莹借款本金13800元；二、利息按年利率6%计付；三、案件受理费减半收取，由被告毕京洲负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 13800.0,
+          "settlement_interest_cap": "年利率6%"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）沪01民终9265号 上诉人毕京洲因与被上诉人乐莹民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以13800元为基数）；二、二审案件受理费由上诉人毕京洲负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 13800.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）沪0115民初9621号 原告乐莹以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告乐莹撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）沪01民终9265号 上诉人毕京洲向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人毕京洲撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      "1.判令被告偿还原告借款100万元；2.判令被告支付原告按借款100万元为基数，按年利率6%计算的自2015年12月23日起至实际还款日止的利息。"
+    ],
+    "defense_gt": "100万元是原告所在公司向被告支付的2015年年终和项目分红，但在原告否认的情况，被告未能就其主张提供证据予以证明，因此，相应不利后果依法应由负有举证证明责任的被告承担",
+    "appeal_requests_gt": {
+      "claim": [
+        "撤销原审判决，依法改判驳回被上诉人的原审诉讼请求。"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "：被告毕某2与原告乐某的丈夫沈善俊是朋友关系，双方互有经济往来。2015年12月22日，原告通过其名下的中国工商银行卡号XXXXXXXXXXXXXXXXXXX向被告名下的中国建设银行卡号XXXXXXXXXXXXXXXXXXX转账100万元，中国工商银行境内汇款电子回单附言载明“沈善俊”，明细详情交易备注载明“借款”。现原告要求被告还款，故引发本案诉讼。审理中，被告称确实在那时购买房屋，但100万元是沈善俊所在公司向被告支付的2015年年终和项目分红。原告对此予以否认，称被告不是公司股东，不存在分红，被告借款是通过中间人搭话，因碍于情面且公司内存在朋友关系，所以不好写借条，被告还承诺是短期还款。本院组织双方进行调解，但双方分歧较大，致使本案调解未成。以上事实，由原告提供的中国工商银行借记卡账户历史明细清单、境内汇款电子回单、明细详情，被告提供的招商银行历史交易明细表，以及本案庭审笔录等证据证…",
+    "opinion_gt": "《最高人民法院关于审理民间借贷案件适用法律若干问题的规定》第十七条规定，原告仅依据金融机构的转账凭证提起民间借贷诉讼，被告抗辩转账系偿还双方之前借款或其他债务，被告应当对其主张提供证据证明。被告提供相应证据证明其主张后，原告仍应就借贷关系的成立承担举证证明责任。根据该条规定，在原告仅依据金融机构的转账凭证提起民间借贷诉讼的情况下，被告对转账系偿还双方之前借款或其他债务之抗辩主张负有举证证明责任，如被告不能证明该抗辩主张的，原告的民间借贷主张依法成立，相应不利后果依法应由负有举证证明责任的被告承担。本案中，被告抗辩称100万元是原告所在公司向被告支付的2015年年终和项目分红，但在原告否认的情况，被告未能就其主张提供证据予以证明，因此，相应不利后果依法应由负有举证证明责任的被告承担。双方虽没有约定借款期限，但依照相关法律规定，原告有权催告被告在合理期限内返还，现原告已采用诉讼方式催告被告还款…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "被告毕某2于本判决生效之日起十日内归还原告乐某100万元；二、被告毕某2于本判决生效之日起十日内偿付原告乐某以100万元为基数，按年利率6%计算的自2019年3月12日起至实际清偿日止的利息；三、驳回原告乐某其余的诉讼请求。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉，维持原判。二审案件受理费人民币13,800元，由上诉人毕京洲负担。本判决为终审判决。"
+    ],
+    "judgment_text_first": "（2019）沪0115民初9621号 判决如下：被告毕某2于本判决生效之日起十日内归还原告乐某100万元；二、被告毕某2于本判决生效之日起十日内偿付原告乐某以100万元为基数，按年利率6%计算的自2019年3月12日起至实际清偿日止的利息；三、驳回原告乐某其余的诉讼请求。",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "mediation_ci",
+      "gt_terminal": "first_mediation",
+      "gt_plaintiff": "draw",
+      "gt_defendant": "draw"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "毕京洲"
+      ]
+    }
+  },
+  {
+    "case_id": 25914,
+    "original_id": 25914,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）青2821民初228号",
+    "court_1": "乌兰县人民法院",
+    "case_number_2": "（2019）青28民终431号",
+    "court_2": "海西蒙古族藏族自治州中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "杨少军",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "唐俊鹏",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "杨少军与唐俊鹏发生民间借贷纠纷。一审案号（2019）青2821民初228号。1.请求法院判令被告支付原告借款22000元及按同期银行贷款利率支付自2018年12月2日起至实际支付支付日的利息；2.诉讼费由被告承担。 被告方面：不认可原告的诉求，我不欠原告的钱，我给原告写欠条是在原告胁迫、威胁我的情况下写的，是非法的。\n【新增事实】原告向与被告住所地、合同履行地均无管辖连接点的法院递交起诉状（不是乌兰县人民法院）。",
+      "client_plaintiff": {
+        "borrow_amount": "1.请求法院判令被告支付原告借款22000元及按同期银行贷款利率支付自2018年12月2日起至实际支付支付日的利息；2.诉讼费由被告承担。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "欠条",
+          "转账",
+          "借款合同"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "不认可原告的诉求，我不欠原告的钱，我给原告写欠条是在原告胁迫、威胁我的情况下写的，是非法的。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 22000.0
+      },
+      "repaid": {
+        "amount": 4000.0
+      },
+      "interest": {
+        "rate_annual": null,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "欠条",
+          "转账",
+          "借款合同"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "procedural",
+        "plaintiff": "lose",
+        "defendant": "win"
+      },
+      "second": {
+        "kind": "维持",
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）青2821民初228号 原告杨少军与被告唐俊鹏民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告唐俊鹏归还原告杨少军借款本金18000元；二、利息按年利率24%上限计付；三、案件受理费减半收取，由被告唐俊鹏负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 18000.0,
+          "settlement_interest_cap": "年利率24%上限"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）青28民终431号 上诉人唐俊鹏因与被上诉人杨少军民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以18000元为基数）；二、二审案件受理费由上诉人唐俊鹏负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 18000.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）青2821民初228号 原告杨少军以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告杨少军撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）青28民终431号 上诉人唐俊鹏向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人唐俊鹏撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      "1.请求法院判令被告支付原告借款22000元及按同期银行贷款利率支付自2018年12月2日起至实际支付支付日的利息；2.诉讼费由被告承担。"
+    ],
+    "defense_gt": "不认可原告的诉求，我不欠原告的钱，我给原告写欠条是在原告胁迫、威胁我的情况下写的，是非法的。",
+    "appeal_requests_gt": {
+      "claim": [
+        "一、撤销青海省乌兰县人民法院作出的（2019）青2821民初228号民事判决，驳回"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "原、被告两人原为朋友关系，两人曾合伙做生意。2016年12月7日被告因买车还贷缺钱，向原告借款26000元，原告答应后于2016年12月7日通过手机银行转账的方式向被告支付借款，因手机银行单日转账限额为20000元，原告当日向被告转账20000元，次日又向被告转账6000元。原告自认被告已偿还其4000元欠款。剩余22000元欠款，被告于2018年3月22日向原告出具了欠条，承诺于2018年12月1日前还清，并承诺如有延迟支付每月5000元的违约金。现因被告未能如期还款，原告诉至本院要求被告履行还款义务并承担本案诉讼费。 上述事实有原、被告的当庭称述，欠条一份、银行卡交易明细一份、电话录音一份予以证实，本院予以确认。",
+    "opinion_gt": "债务应当清偿，借款人应当按照约定全面履行自己的义务。本案中，唐俊鹏向杨少军借款，其虽当庭不予认可，但在其本人与原告杨少军的两次通话录音中均有其会还款的承诺，结合原告提交的欠条、银行卡交易明细等证据，能证明借款的事实，双方形成了民间借贷的法律关系，被告唐俊鹏理当按照欠条中的约定如期还款，现被告违约，原告要求其偿还欠款22000元的诉讼请求，本院予以支持。根据《最高人民法院关于民事诉讼证据的若干规定》第二条&ldquo;当事人对自己提出的诉讼请求所依据的事实或者反驳对方诉讼请求所依据的事实有责任提供证据加以证明。没有证据或者证据不足以证明当事人的事实主张的，由负有举证责任的当事人承担不利后果。&rdquo;之规定，被告唐俊鹏关于&ldquo;欠条是在原告的威胁、恐吓下所写，我不欠原告的钱&rdquo;的辩称意见，因其未能提供充分的证据予以佐证，故本院对此答辩意见不予支持。综上，依据《中华人民共…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "被告唐俊鹏于本判决生效后十五日内偿还原告杨少军借款22000元人民币。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉，维持原判。 二审案件受理费350元，由上诉人唐俊鹏负担。 本判决为终审判决。 审 判 长 党雪仁 审 判 员 张永涛 审 判 员 彭建玉 二〇一九年十一月二十九日 法官助理 罗丽娟 书 记 员 刘霞青"
+    ],
+    "judgment_text_first": "",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "gold_task_non_acceptance",
+      "gt_terminal": "first_procedural",
+      "gt_plaintiff": "lose",
+      "gt_defendant": "win"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "唐俊鹏"
+      ]
+    }
+  },
+  {
+    "case_id": 36916,
+    "original_id": 36916,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "原告",
+    "case_number_1": "（2019）黑0110民初2551号",
+    "court_1": "黑龙江省哈尔滨市香坊区人民法院",
+    "case_number_2": "（2019）黑01民终4436号",
+    "court_2": "黑龙江省哈尔滨市中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "孙世英",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "刘慧梅",
+        "party_type": "自然人",
+        "gender": "女",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "孙世英与刘慧梅发生民间借贷纠纷。一审案号（2019）黑0110民初2551号。1、判令被告给付欠款3万元；2、诉讼费由被告承担。 被告方面：不同意原告的诉讼请求，原告所说双方是邻居不属实，我们是通过朋友介绍认识处朋友、搞对象，双方确定关系之后在一起同居了，然后我答应跟原告登记结婚，3万元钱是原告主动给我的，因为我跟她同居，觉得亏欠我就主动给我3万元，2018年4月份给我的，当时是原告拿着3万元现金\n【新增事实】立案后查明：起诉状所列原告孙世英并非债权人，仅是资金转账经办人，债权人为案外人且未授权。",
+      "client_plaintiff": {
+        "borrow_amount": "1、判令被告给付欠款3万元；2、诉讼费由被告承担。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "欠条",
+          "收据"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "不同意原告的诉讼请求，原告所说双方是邻居不属实，我们是通过朋友介绍认识处朋友、搞对象，双方确定关系之后在一起同居了，然后我答应跟原告登记结婚，3万元钱是原告主动给我的，因为我跟她同居，觉得亏欠我就主动给我3万元，2018年4月份给我的，当时是原告拿着3万元现金跟我一起到银行往我的贷款账户上存了3万元，这个钱就给我交贷款了，之后回到家之后，原告就让我写欠条。当时写了一份欠条，之后就返到银行要求把这3",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 30000.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_annual": null,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "欠条",
+          "收据"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "procedural",
+        "plaintiff": "lose",
+        "defendant": "win"
+      },
+      "second": {
+        "kind": "维持",
+        "plaintiff": "lose",
+        "defendant": "win"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）黑0110民初2551号 原告孙世英与被告刘慧梅民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告刘慧梅归还原告孙世英借款本金30000元；二、利息按年利率24%上限计付；三、案件受理费减半收取，由被告刘慧梅负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 30000.0,
+          "settlement_interest_cap": "年利率24%上限"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）黑01民终4436号 上诉人刘慧梅因与被上诉人孙世英民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以30000元为基数）；二、二审案件受理费由上诉人刘慧梅负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 30000.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）黑0110民初2551号 原告孙世英以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告孙世英撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）黑01民终4436号 上诉人刘慧梅向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人刘慧梅撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      "1、判令被告给付欠款3万元；2、诉讼费由被告承担。"
+    ],
+    "defense_gt": "不同意原告的诉讼请求，原告所说双方是邻居不属实，我们是通过朋友介绍认识处朋友、搞对象，双方确定关系之后在一起同居了，然后我答应跟原告登记结婚，3万元钱是原告主动给我的，因为我跟她同居，觉得亏欠我就主动给我3万元，2018年4月份给我的，当时是原告拿着3万元现金跟我一起到银行往我的贷款账户上存了3万元，这个钱就给我交贷款了，之后回到家之后，原告就让我写欠条。当时写了一份欠条，之后就返到银行要求把这3万元取出来，后来银行说走账了，取不出来了，回到家把原来的欠条撕了，又重新给原告打了一份欠条，打完条之后我们俩又在一起生活。2018年8月份原告跟我说钱不要了，在欠条上写上此条作废，把欠条给我了。当事人围绕诉讼请求依法提交了证据，原告向法庭提交了以下证据：欠条一份(原件)。拟证明：被告欠原告3万元整，出条时间是2018年4月18日。原告提交的上述证据，经被告质证对该份证据的真实性及所要证明的内容均有异议，原告提交的这份欠条不是我写的。被告为证明其主张的事实成立，向法庭提交如下证据：欠条一份（原件），拟证明：原告说这笔钱不要了，这3万元欠条作废。被告提交的上述证据，经原告质证对该证据的真实性没有异…",
+    "appeal_requests_gt": {
+      "claim": [
+        "1.撤销一审判决，改判支持孙世英在一审中的诉讼请求；2.一、二审诉讼费由刘慧梅承担。"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "：原告与被告系经人介绍建立恋爱关系，2018年4月原告将3万元现金存入被告银行贷款账户，之后被告给原告出具欠条一份，内容为：“欠孙世英叁万元整，分期还完，今年8月份还一部分，2019年还完，刘慧（会）梅签名，2018年4月18日”。2018年8月29日原告孙世英在该欠条空白处写上“叁万元欠条作废，孙世英签名”并将该欠条交给被告。现原告以被告向其借款3万元未偿还为由，持“刘会梅”签名的内容为“欠孙世英叁万元整2018年4月18日”的欠条一份向本院提起诉讼。被告否认该欠条上“刘会梅”的签名系其本人所写，双方均不主张笔迹鉴定。",
+    "opinion_gt": "原告向本院提起民间借贷诉讼，其所持有的欠条，被告抗辩否认系其本人签名，且提出证据欠条一份证明原告已明确表示该3万元欠款不要了，但从全案来看，被告所提交的证据能够证明双方存在欠款事实，可以认定双方民间借贷的法律关系成立，但原告于2018年8月29日在欠条上签署“叁万元欠条作废”并将该欠条交给被告，表明原告已放弃该债权。原告虽辩称其写的“叁万元欠条作废”仅指该张欠条作废，不是这笔欠款作废，但其辩解不符合常理，且原、被告所提交的欠条日期均为2018年4月18日，即被告在同一天出具了两张欠条有悖常理。故原告的诉讼请求证据不足。依据《最高人民法院关于审理民间借贷案件适用法律若干问题的规定》第二条、第十六条、《最高人民法院关于适用〈中华人民共和国民事诉讼法〉的解释》第九十条之规定，",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "驳回原告孙世英的诉讼请求。案件受理费550元（原告已预交），本院减半收取275元，由孙世英自行负担。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉，维持原判。二审案件受理费550.00元，由孙世英负担。本判决为终审判决。"
+    ],
+    "judgment_text_first": "",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "gold_task_reject_complaint",
+      "gt_terminal": "first_procedural",
+      "gt_plaintiff": "lose",
+      "gt_defendant": "win"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "刘慧梅"
+      ]
+    }
+  },
+  {
+    "case_id": 58916,
+    "original_id": 58916,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）湘0602民初4807号",
+    "court_1": "湖南省岳阳市岳阳楼区人民法院",
+    "case_number_2": "（2019）湘06民终3810号",
+    "court_2": "湖南省岳阳市中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "程学群",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "岳阳金刚房地产开发有限公司",
+        "party_type": "法人",
+        "gender": "",
+        "address": "岳阳市岳阳楼区金鹗东路**通海大厦（桃花山社区居委会）",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "medium",
+          "emotional_stability": "high",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "程学群与岳阳金刚房地产开发有限公司发生民间借贷纠纷。一审案号（2019）湘0602民初4807号。1.判令被告连带偿还原告借款本金54468元；2.由被告承担本案诉讼费。 被告方面：\n【新增事实】立案后查明：起诉状所列原告程学群并非债权人，仅是资金转账经办人，债权人为案外人且未授权。",
+      "client_plaintiff": {
+        "borrow_amount": "1.判令被告连带偿还原告借款本金54468元；2.由被告承担本案诉讼费。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "转账",
+          "保证合同"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 54468.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_annual": null,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "转账",
+          "保证合同"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": true
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "procedural",
+        "plaintiff": "lose",
+        "defendant": "win"
+      },
+      "second": {
+        "kind": "维持",
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）湘0602民初4807号 原告程学群与被告岳阳金刚房地产开发有限公司民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告岳阳金刚房地产开发有限公司归还原告程学群借款本金54468元；二、利息按年利率24%上限计付；三、案件受理费减半收取，由被告岳阳金刚房地产开发有限公司负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 54468.0,
+          "settlement_interest_cap": "年利率24%上限"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）湘06民终3810号 上诉人岳阳金刚房地产开发有限公司因与被上诉人程学群民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以54468元为基数）；二、二审案件受理费由上诉人岳阳金刚房地产开发有限公司负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 54468.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）湘0602民初4807号 原告程学群以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告程学群撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）湘06民终3810号 上诉人岳阳金刚房地产开发有限公司向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人岳阳金刚房地产开发有限公司撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      "1.判令被告连带偿还原告借款本金54468元；2.由被告承担本案诉讼费。"
+    ],
+    "defense_gt": "",
+    "appeal_requests_gt": {
+      "claim": [
+        "撤销湖南省岳阳市岳阳楼区人民法院（2019）湘0602民初4807号民事判决并发回重审。"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "：2014年10月10日，原告与岳阳中亿佰联投资管理有限公司（以下简称“中亿百联公司”）签订《合作放贷协议》，出资共计8万元，约定月利息1.5%，借款期限四至八个月；再以中亿百联公司指定的人的名义将款项出借给张家界宏天房地产开发有限公司。实际上，中亿百联公司是否将原告款项出借给了张家界宏天房地产开发有限公司，抑或是出借给了其他人，原告对此并不清楚，也未参与后续的放贷行为。2016年左右，中亿佰联公司相关责任人员因涉嫌非法吸收公众存款陆续被公安机关立案侦查。2019年4月17日，湖南恒兴联合会计师事务所受岳阳市公安局岳阳楼分局的委托，对中亿百联公司涉嫌非法吸收公众存款的情况进行补充审计鉴证。经审计，中亿百联公司案涉全体投资客户未获退还的借款本金数额共计20664826.57元；本案原告程学群尚余本金54468元未得到退还。截至本案开庭之日，原告未获清偿的本金数额仍为54468元。2018年1…",
+    "opinion_gt": "本案系民间借贷中的债权人因债务人履行不能而起诉担保人，请求担保人承担担保责任所引发的纠纷。原告程学群系出借人即债权人（即协议书所指“投资客户”），中亿百联公司系借款人即债务人。在中亿百联公司相关责任人员因涉嫌非法吸收公众存款被公安机关立案侦查后，被告金刚房地产公司在明知案涉民间借贷行为可能涉嫌刑事犯罪，债务人中亿百联公司可能无力偿还原告借款的情况下，自愿与原告及中亿百联公司签订案涉《协议书》承担担保责任，以保障原告等借款人债权的实现，该协议内容系各方真实意思表示，不存在《中华人民共和国合同法》第五十二条第（五）项和《最高人民法院关于适用若干问题的解释(二)》第十四条规定的违反法律、行政法规的效力性强制性规定而导致合同无效的情形，故案涉《协议书》合法、有效，被告金刚房地产公司应依约承担相应担保责任。关于金刚房地产公司应承担何种担保责任的问题。在协议书中，被告金刚房地产公司有用其房屋进行抵押担…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "由被告岳阳金刚房地产开发有限公司以总担保金额25000000元为限，对原告程学群的借款本金54468元承担连带还款义务；原告程学群在岳阳中亿佰联投资管理有限公司相关责任人员所涉非法吸收公众存款刑事案件中获得的退赃款，应予扣减。上述应当支付的款项，限被告在本判决生效后十日内履行。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉，维持原判。二审案件受理费1162元，由上诉人岳阳金刚房地产开发有限公司负担。本判决为终审判决。"
+    ],
+    "judgment_text_first": "",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "gold_task_reject_complaint",
+      "gt_terminal": "first_procedural",
+      "gt_plaintiff": "lose",
+      "gt_defendant": "win"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "岳阳金刚房地产开发有限公司"
+      ]
+    }
+  },
+  {
+    "case_id": 70916,
+    "original_id": 70916,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）豫1628民初2943号",
+    "court_1": "河南省鹿邑县人民法院",
+    "case_number_2": "（2019）豫16民终5443号",
+    "court_2": "河南省周口市中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "赵富田",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "李春聚",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "赵富田与李春聚发生民间借贷纠纷。一审案号（2019）豫1628民初2943号。1．请求被告归还欠款350,000元及资金占用利息70,200元（利息计算至2019年4月24日，以后利息另计）；2．本案诉讼费由被告承担。 被告方面：\n【新增事实】立案后查明：起诉状所列原告赵富田并非债权人，仅是资金转账经办人，债权人为案外人且未授权。",
+      "client_plaintiff": {
+        "borrow_amount": "1．请求被告归还欠款350,000元及资金占用利息70,200元（利息计算至2019年4月24日，以后利息另计）；2．本案诉讼费由被告承担。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条",
+          "转账",
+          "借款合同"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 350000.0
+      },
+      "repaid": {
+        "amount": 100000.0
+      },
+      "interest": {
+        "rate_annual": null,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条",
+          "转账",
+          "借款合同"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "procedural",
+        "plaintiff": "lose",
+        "defendant": "win"
+      },
+      "second": {
+        "kind": "维持",
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）豫1628民初2943号 原告赵富田与被告李春聚民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告李春聚归还原告赵富田借款本金250000元；二、利息按年利率24%上限计付；三、案件受理费减半收取，由被告李春聚负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 250000.0,
+          "settlement_interest_cap": "年利率24%上限"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）豫16民终5443号 上诉人李春聚因与被上诉人赵富田民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以250000元为基数）；二、二审案件受理费由上诉人李春聚负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 250000.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）豫1628民初2943号 原告赵富田以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告赵富田撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）豫16民终5443号 上诉人李春聚向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人李春聚撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      "1．请求被告归还欠款350,000元及资金占用利息70,200元（利息计算至2019年4月24日，以后利息另计）；2．本案诉讼费由被告承担。"
+    ],
+    "defense_gt": "原告赵富田非本案适格原告，涉案借款合同位华与被告签订，位华系河南金港投资有限公司鹿邑分公司法定代表人，即便借贷关系成立，也应由河南金港投资有限公司鹿邑分公司主张",
+    "appeal_requests_gt": {
+      "claim": [
+        "1、依法撤销鹿邑县人民法院作出的（2019）豫1628民初2943号民事判决书，依法改判驳回赵富田一审的诉讼请求；2、本案一、二审的诉讼费由赵富田承担。"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "：2014年12月24日，被告李春聚向原告赵富田借款500,000元，书面借款合同的签订主体为案外人位华和被告李春聚。同日，原告赵富田将借款450,000元通过银行转账方式支付至被告李春聚银行账户。后案外人位华据借款合同提起诉讼请求被告李春聚偿还涉案借款，法院作出（2017）豫1628民初258号民事裁定书，该裁定书认定位华提供的证据不足以证实其为该案借款的实际出借人，不具备该案原告的诉讼主体资格，裁定驳回了位华的起诉。现原告赵富田提起诉讼，要求被告偿还涉案借款。另查明，原告赵富田自认被告李春聚已偿还其借款100,000元。",
+    "opinion_gt": "关于本案原告赵富田及被告李春聚是否为本案适格当事人问题。被告李春聚辩称原告赵富田非本案适格原告，涉案借款合同位华与被告签订，位华系河南金港投资有限公司鹿邑分公司法定代表人，即便借贷关系成立，也应由河南金港投资有限公司鹿邑分公司主张。经审查被告提供的借款合同，该合同签订主体为位华和被告李春聚，均为自然人，合同未加盖公司印章，主体签名上亦未冠有公司名称。该借款合同与河南金港投资有限公司鹿邑分公司在法律上没有关联。厉龙飞陈述意见、被告代理人的代理意见、中院接待笔录及原告举证的法律文书内容表明，是被告李春聚去找原告赵富田借款，虽书面借款合同签订主体为案外人位华与被告李春聚，但所借款项是由原告通过其银行账户支付至被告账户。合同实际签订人位华向被告主张借款被法院以不是实际出借人为由驳回了起诉。故本案实际出借人应为原告赵富田，赵富田以原告名义提起诉讼，是本案适格原告。被告李春聚辩称其非本案适格被告，本案…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "被告李春聚于本判决生效之日起十日内向原告赵富田偿还借款350,000元；二、驳回原告赵富田其他诉讼请求。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉，维持原判。二审案件受理费6550元，由上诉人李春聚负担。本判决为终审判决。"
+    ],
+    "judgment_text_first": "",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "gold_task_reject_complaint",
+      "gt_terminal": "first_procedural",
+      "gt_plaintiff": "lose",
+      "gt_defendant": "win"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "李春聚"
+      ]
+    }
+  },
+  {
+    "case_id": 76916,
+    "original_id": 76916,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2018）云01民初217号",
+    "court_1": "云南省昆明市中级人民法院",
+    "case_number_2": "（2019）云民终1447号",
+    "court_2": "云南省高级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "刘晋舟",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "任晓鹏",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "low",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "刘晋舟与任晓鹏发生民间借贷纠纷。一审案号（2018）云01民初217号。明宇、江旭斌，云南滇铭律师事务所律师，特别授权代理。被告：任晓鹏，男，汉族，1979年1月27日生，住河南省新乡市红旗区。委托诉讼代理人：吴彬彬，河南佳鑫律师事务所律师，特别授权代理。原告刘晋舟诉被告任晓鹏民间借贷纠纷一案，本院于2018年1月25日受理后，审理中，被告任晓鹏对本院的管辖权提出异议，经云南省高级人民法院终审裁定\n【新增事实】立案后查明：起诉状所列原告刘晋舟并非债权人，仅是资金转账经办人，债权人为案外人且未授权。",
+      "client_plaintiff": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "1、双方没有发生借贷关系，原告要求被告归还的借款没有任何事实依据；2、双方的保证金纠纷已经在官渡区人民法院起诉；3、原告的诉讼混淆事实滥用诉权，重复起诉，应予驳回。当事人围绕诉讼请求依法提交了证据，本院组织当事人进行了证据交换。对当事人无异议的证据，本院予以确认并在卷佐证。对双方争议的原、被告是否存在本案借款的事实，本院将在下文结合争议焦点一并评述。经审理，本院认定本案事实如下：2017年5月19",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 11660062.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_monthly": 0.014,
+        "rate_annual": 0.06,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": true
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "procedural",
+        "plaintiff": "lose",
+        "defendant": "win"
+      },
+      "second": {
+        "kind": "维持",
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2018）云01民初217号 原告刘晋舟与被告任晓鹏民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告任晓鹏归还原告刘晋舟借款本金11660062元；二、利息按年利率6%计付；三、案件受理费减半收取，由被告任晓鹏负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 11660062.0,
+          "settlement_interest_cap": "年利率6%"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）云民终1447号 上诉人任晓鹏因与被上诉人刘晋舟民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以11660062元为基数）；二、二审案件受理费由上诉人任晓鹏负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 11660062.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2018）云01民初217号 原告刘晋舟以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告刘晋舟撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）云民终1447号 上诉人任晓鹏向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人任晓鹏撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "利息标准",
+      "本金认定",
+      "保证责任"
+    ],
+    "claims_gt": [
+      ""
+    ],
+    "defense_gt": "1、双方没有发生借贷关系，原告要求被告归还的借款没有任何事实依据；2、双方的保证金纠纷已经在官渡区人民法院起诉；3、原告的诉讼混淆事实滥用诉权，重复起诉，应予驳回。当事人围绕诉讼请求依法提交了证据，本院组织当事人进行了证据交换。对当事人无异议的证据，本院予以确认并在卷佐证。对双方争议的原、被告是否存在本案借款的事实，本院将在下文结合争议焦点一并评述。经审理，本院认定本案事实如下：2017年5月19日，被告任小鹏向原告刘晋舟出具《承诺书》载明，因被告任小鹏使用案外人杨建国的证券账户，里面有股票停牌，无故牵连原告刘晋舟使用的徐娟华和杨杨的证券账户，被徐娟华、杨杨强行私自平仓，并单方面强制扣押刘晋舟保证金11660062元拒不归还，被告任小鹏愿意承担杨建国证券账户里面有股票复牌后所产生的一切损失，并积极配合原告刘晋舟解决与案外人徐娟华、杨杨的保证金纠纷。同日，被告还向原告出具《借条》载明，被告欠原告2407370元，该借款现已经在官渡区人民法起诉。2018年7月3日，原告刘晋舟出具《情况说明》载明，2016年至2017年5月19日，其与被告之间共转款2418000元，经对账扣除还款，被告还欠…",
+    "appeal_requests_gt": {
+      "claim": [
+        "1.撤销一审判决，对本案依法改判，判决被上诉人归还上诉人借款本金11660062元，并支付2017年5月19日至借款本金还清之日止的资金占用费；2.本案一审、二审诉讼费由被上诉人承担。事实及理由:1.一审认定事实错误。上诉人与被上诉人之间的法律关系为股票配资，具体模式是上诉人缴纳一定的保证金，被上诉人按一定比例配资给上诉人，被上诉人在配资期间每个月按月息1.4分收取固定利息，而被上诉人将其控制的股票账户和密码交给上诉人操作，上诉人与账户的所有人不发生关系，股票的盈利和亏损由上诉人享有和承担，这种交易在法律上属于让与担保性质的民间借贷。在双方交易结束后，被上诉人理应返还上诉人的保证金11660062元，但被上诉人将其挪为他用，并向上诉人书面承诺归还此笔款项，至此,本案中的保证金就转化成了借款。上诉人与被上诉人之间有多笔业务项目往来，被上诉人提交的《情况说明》中的2407370元与本案的11660062元是两笔交易形成的不同的结算金额，11660062元是基于保证金转化的借款，与上诉人与被上诉人之间2407370元的借款无关。2、一审法院适用法律错误。上诉人提交的《承诺书》上反映了上诉人的保证金被被上诉人挪用并转化为借款的事实，而该账户的实际控制人就是被上诉人，并非案外人。被上诉人已多次表明承认欠上诉人款项的事实，一审法院即使不认可保证金转化为借款的性质，也不能否认被上诉人尚欠上诉人1"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "",
+    "opinion_gt": "：《中华人民共和国民事诉讼》第六十四条规定“当事人对自已的主张有责任提供证据”；最高人民法院关于适用《中华人民共和国民事诉讼法》的解释第九十条第二款规定“在作出判决前，当事人未能提供证据或者提供的证据不足以证明其事实主张的，由负有举证证明责任的当事人承担不利后果”，故依法当事人对自已的主张负有举证证明责任，未能提供证据或者提供的证据不足以证明其事实主张的当事人承担不利后果。本案中，原告提交的《承诺书》所载内容，反映的是被告因使用案外人的股票账户给原告造成的损失问题，而非原告主张的民间借贷法律关系，其他证据材料也不足以证明原告主张的本案民间借贷法律关系成立。而被告提交原告刘晋舟本人书写的《情况说明》，也表明双方2016年至2017年5月19日之间的借款经结算为2407370元，原告也起诉到法院解决。因此，综合全案证据，原告主张与被告之间存在11660062元的民间借贷要求归还并承担资金占用费…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "驳回原告刘晋舟的诉讼请求。案件受理费94559元，由驳回原告刘晋舟承担。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉，维持原判。二审案件受理费94559元，由刘晋舟承担。本判决为终审判决。"
+    ],
+    "judgment_text_first": "",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "gold_task_reject_complaint",
+      "gt_terminal": "first_procedural",
+      "gt_plaintiff": "lose",
+      "gt_defendant": "win"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "任晓鹏"
+      ]
+    }
+  },
+  {
+    "case_id": 91916,
+    "original_id": 91916,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2018）甘04民初47号",
+    "court_1": "甘肃省白银市中级人民法院",
+    "case_number_2": "（2019）甘民终775号",
+    "court_2": "甘肃省高级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "原告樊善学",
+        "party_type": "自然人",
+        "gender": "",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "在有财产线索且符合保全条件时，可申请财产保全；被保全人应为案件当事人，金额不超过主张的本息范围。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "被告会宁方众房地产开发有限公司",
+        "party_type": "法人",
+        "gender": "",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "medium",
+          "emotional_stability": "high",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "原告樊善学与被告会宁方众房地产开发有限公司发生民间借贷纠纷。一审案号（2018）甘04民初47号。原告樊善学与被告会宁方众房地产开发有限公司房屋买卖合同纠纷一案，法院已经立案受理，现原告申请变更本案案由为民间借贷纠纷，变更后的诉讼请求为：1、判令被告偿还原告向被告提供的借款人民币本金5080000元，承担利息2634800元（按照年利率36%自2017年1月24日计算至2019年4月23日，共计2\n【新增事实】立案后查明：起诉状所列原告原告樊善学并非债权人，仅是资金转账经办人，债权人为案外人且未授权。",
+      "client_plaintiff": {
+        "borrow_amount": "原告樊善学与被告会宁方众房地产开发有限公司房屋买卖合同纠纷一案，法院已经立案受理，现原告申请变更本案案由为民间借贷纠纷，变更后的诉讼请求为：1、判令被告偿还原告向被告提供的借款人民币本金5080000元，承担利息2634800元（按照年利率36%自2017年1月24日计算至2019年4月23日，共计27个月）；2、在被告未付清上述款项之前，按照年利率24%的标准由被告承担至全部付清本息为止；3、被",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "转账",
+          "收据"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 5080000.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_monthly": 0.04,
+        "rate_annual": 0.36,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "转账",
+          "收据"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": true
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "procedural",
+        "plaintiff": "lose",
+        "defendant": "win"
+      },
+      "second": {
+        "kind": "改判",
+        "plaintiff": "lose",
+        "defendant": "win"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2018）甘04民初47号 原告原告樊善学与被告被告会宁方众房地产开发有限公司民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告被告会宁方众房地产开发有限公司归还原告原告樊善学借款本金5080000元；二、利息按年利率24%上限计付；三、案件受理费减半收取，由被告被告会宁方众房地产开发有限公司负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 5080000.0,
+          "settlement_interest_cap": "年利率24%上限"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）甘民终775号 上诉人被告会宁方众房地产开发有限公司因与被上诉人原告樊善学民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以5080000元为基数）；二、二审案件受理费由上诉人被告会宁方众房地产开发有限公司负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 5080000.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2018）甘04民初47号 原告原告樊善学以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告原告樊善学撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）甘民终775号 上诉人被告会宁方众房地产开发有限公司向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人被告会宁方众房地产开发有限公司撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      "原告樊善学与被告会宁方众房地产开发有限公司房屋买卖合同纠纷一案，法院已经立案受理，现原告申请变更本案案由为民间借贷纠纷，变更后的诉讼请求为：1、判令被告偿还原告向被告提供的借款人民币本金5080000元，承担利息2634800元（按照年利率36%自2017年1月24日计算至2019年4月23日，共计27个月）；2、在被告未付清上述款项之前，按照年利率24%的标准由被告承担至全部付清本息为止；3、被告承担本案诉讼费、保全费保费15013.56元、律师费480000元。事实及理由：2017年被告在开发会宁县房地产项目时由于资金紧张，提出向原告低价出让其开发的房产，以便于筹集资金，原告当时表示同意。为此，双方签订了商品房买卖合同，并在会宁县房管局进行了备案登记；其后，被告认为当时出让给原告的房价过低，迟迟不按约定交付房产，故原告起诉至法院。在审理过程中，被告提出此案系民间借贷纠纷，对此，原告本着解决问题的态度，也了解到被告开发的房产已产生多起纠纷，故原告同意被告返还所有购房款，占用资金期间的利息按照民间借贷法定利息上限给付，不再主张被告交付房产。 会宁方众房地产开发有限公司辩称，本案事实是:2017年元月，答辩人与被答辩人的叔叔樊万恒商谈借款事宜，经双方协商一致后，樊万恒要求以其侄子樊善学的名义出借，借款本金1000万元，月利息为4%，借期为3个月。为保障借款的安全性，樊万恒要求答辩人以其开发建设的&ldquo;会宁方众新天地&rdquo;商业地产项目的房屋进行抵押。因该地产项目正在建设中，无法办理房屋抵押登记手续，双方即签订了商品房买卖合同，其真实目的是为了给借款提供担保，并非为了…"
+    ],
+    "defense_gt": "系为借款进行的担保，没有房屋买卖的意思表示",
+    "appeal_requests_gt": {
+      "claim": [
+        "1.请求撤销一审判决，依法驳回樊善学的诉请或发回重审；2.请求判决本案一、二审诉讼费用由樊善学承担。"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "：2017年元月原、被告双方口头协商由原告向被告出借1000万元，月息4%，借期三个月，被告以其开发建设的&ldquo;会宁方众新天地&rdquo;商业地产项目的房屋进行抵押。双方于2017年1月20日及2017年1月24日签订了合同编号为HNYS20102818、HNYS20102819、HNYS20102821、HNYS20102823的《商品房买卖合同》和《商品房买卖补充协议》，并且于2017年1月22日在会宁县房地产管理局对HNYS20102818、HNYS20102819、HNYS20102821、HNYS20102823号《商品房买卖合同》进行了备案登记，于2017年1月24日在会宁县公证处对《商品房买卖补充协议》进行了公证证明。2017年1月25日原告通过甘肃榆中农村合作银行向被告转款508万元。借款到期后被告未能按期还款，原告于2017年10月17日诉至会宁县人民法院要求履…",
+    "opinion_gt": "第一、双方签订的《房屋买卖合同》，被告辩称系为借款进行的担保，没有房屋买卖的意思表示。本院经审查认为，首先，该合同约定的房屋价格过低，交易房屋数量众多，有违一般交易习惯；其次，根据被告提交的还款记录能够印证本案系民间借贷，因为如果是购房款不可能存在被告向原告偿还利息的情况。依据《最高人民法院关于审理民间借贷案件适用法律若干问题的规定》第二十四条第一款之规定，本案应为民间借贷法律关系。第二、合法的民间借贷关系受法律保护。原告与被告之间达成口头借款协议，且原告已将借款给付被告，证实了原、被告之间存在真实的借贷关系，应受法律保护。现原告请求被告偿还本金及利息，本院予以支持。根据已查明的事实，本案借款本金为508万元，根据转账记录借款时间为2017年1月25日，借期三个月，月息4%，截止2018年2月13日被告累计偿还148万元。现原告请求按照年利率36%支付利息，符合法律规定，本院予以支持。依照…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "被告会宁方众房地产开发有限公司于本判决生效之日起30日内偿还原告樊善学借款本金508万元及利息（按年利率24%自2017年11月25日计算至本判决确定履行之日，该计算数额扣除10.84万元）； 二、被告会宁方众房地产开发有限公司于本判决生效之日起30日内给付原告樊善学律师代理费、保全担保费用490013.56元； 三、驳回原告樊善学其他诉讼请求。"
+    ],
+    "final_judgment_gt_2": [
+      "维持甘肃省白银市中级人民法院（2018）甘04民初47号民事判决第一项；二、撤销甘肃省白银市中级人民法院（2018）甘04民初47号民事判决第三项；三、变更甘肃省白银市中级人民法院（2018）甘04民初47号民事判决第二项：会宁方众房地产开发有限公司于判决生效之日起30日内给付樊善学保全担保费用10013.56元；四、驳回樊善学的其他诉讼请求。"
+    ],
+    "judgment_text_first": "",
+    "judgment_text_second": "",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "gold_task_reject_complaint",
+      "gt_terminal": "first_procedural",
+      "gt_plaintiff": "lose",
+      "gt_defendant": "win"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "被告会宁方众房地产开发有限公司"
+      ]
+    }
+  },
+  {
+    "case_id": 2103,
+    "original_id": 2103,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）吉2404民初1090号",
+    "court_1": "珲春市人民法院",
+    "case_number_2": "（2019）吉24民终1445号",
+    "court_2": "吉林省延边朝鲜族自治州中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "丁坤",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "郎振有",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "丁坤与郎振有发生民间借贷纠纷。一审案号（2019）吉2404民初1090号。要求郎振有偿还借款本金40000元及利息、违约金（自2015年1月10日起至还清之日止，按月利率1.5%计算）。 被告方面：",
+      "client_plaintiff": {
+        "borrow_amount": "要求郎振有偿还借款本金40000元及利息、违约金（自2015年1月10日起至还清之日止，按月利率1.5%计算）。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条",
+          "欠条",
+          "转账",
+          "收据"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 1,
+        "stage": "CIA",
+        "outcome": "成立"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 40000.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_annual": 0.24,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条",
+          "欠条",
+          "转账",
+          "收据"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "win",
+        "defendant": "lose"
+      },
+      "second": {
+        "kind": "改判",
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）吉2404民初1090号 原告丁坤与被告郎振有民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告郎振有归还原告丁坤借款本金40000元；二、利息按年利率24%计付；三、案件受理费减半收取，由被告郎振有负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 40000.0,
+          "settlement_interest_cap": "年利率24%"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）吉24民终1445号 上诉人郎振有因与被上诉人丁坤民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以40000元为基数）；二、二审案件受理费由上诉人郎振有负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 40000.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）吉2404民初1090号 原告丁坤以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告丁坤撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）吉24民终1445号 上诉人郎振有向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人郎振有撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "利息标准",
+      "本金认定"
+    ],
+    "claims_gt": [
+      "要求郎振有偿还借款本金40000元及利息、违约金（自2015年1月10日起至还清之日止，按月利率1.5%计算）。"
+    ],
+    "defense_gt": "",
+    "appeal_requests_gt": {
+      "claim": [
+        "请求二审法院依法改判郎振有不承担违约金。事实和理由：1、丁坤在起诉状诉讼请求第一项中要求郎振有偿还借款本金40000元及违约金，但是在开庭当天即2019年7月11日，在确认诉讼请求时丁坤要求郎振有偿还借款本金40000元及利息，丁坤变更了诉讼请求。2、本案的争议焦点归纳第4项为：丁坤主张的利息是否合理，双方当事人对归纳的争议焦点均无异议，也无补充。综上，请求二审法院依法改判郎振有不承担违约金。丁坤辩称，要求按照利息和违约金支付，在不违法的情况下，按照最高院规定的执行。丁坤向一审法院起诉请求：要求郎振有偿还借款本金40000元及利息（自2015年1月10日起至还清之日止，按月利率1.5%计算）。事实和理由：郎振有以搞工程为由，向丁坤借款60000元，另外郎振有应支付劳务费45000元。嗣后分期偿还65000元，剩余4万元至今未偿还。一审法院认定事实：2014年12月20日，郎振有向丁坤出具借条一份，内容为，“今借乙方人民币95000元，借款期限为2014年12月20日至2015年1月10日，还款方式为借款期限到期时乙方应一次性偿还甲方全部借款，违约责任：如果甲方不能按期归还借款，每拖延一天将按借款金额的0.3%做为违约金和损失赔偿乙方。甲方借款人：丁坤（签字）；乙方还款人：郎振有（签字）”。2017年1月20日，郎振有转账给丁坤70000元。2018年10月份，郎振有以现金形式偿还1"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "：2014年12月20日，郎振有向丁坤出具借条一份，内容为，“今借乙方人民币95000元，借款期限为2014年12月20日至2015年1月10日，还款方式为借款期限到期时乙方应一次性偿还甲方全部借款，违约责任：如果甲方不能按期归还借款，每拖延一天将按借款金额的0.3%做为违约金和损失赔偿乙方。甲方借款人：丁坤（签字）；乙方还款人：郎振有（签字）”。2017年1月20日，郎振有转账给丁坤70000元。2018年10月份，郎振有以现金形式偿还1万元。在庭审中，丁坤述称，该借条中的借款金额95000元并不包括劳务费，原、被告之间的借款本金为85000元和利息10000元，除借条中约定的95000元外，郎振有还应当支付劳务费25000元。",
+    "opinion_gt": "合同当事人应当按照约定履行义务。《最高人民法院关于审理民间借贷案件适用法律若干问题的规定》第十五条规定“原告以借据、收据、欠条等债权凭证为依据提起民间借贷诉讼，被告依据基础法律关系提出抗辩或者反诉，并提供证据证明债权关系纠纷非民间借贷行为引起的，人民法院应当依据查明的事实，按照基础法律关系审理。当事人通过调解、和解或者清算达成的债权债务协议，不适用前款规定。”根据《最高人民法院关于民事诉讼证据的若干规定》第七十四条规定“诉讼过程中，当事人在起诉状、答辩状、陈述及其委托代理人的代理词中承认的对己方不利的事实和认可的证据，人民法院应当予以确认，但当事人反悔并有相反证据足以推翻的除外。”本案中，丁坤在庭审中自认借条中的95000元由借款本金60000元及其利息10000元、劳务费25000元组成，但在庭审过程中反悔，并主张郎振有除借条中约定的债务95000元外，还应当另行支付劳务费25000元，…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "被告郎振有于本判决发生法律效力后，立即偿还原告丁坤15000元及违约金（自2015年1月11日起至2017年1月20日止，以85000元为基数；自2017年1月21日起至2018年10月31日止，以25000元为基数计算；自2018年11月1日起至实际还清之日止，以15000元为基数，均按月利率1.5%计算）"
+    ],
+    "final_judgment_gt_2": [
+      "撤销吉林省珲春市人民法院（2019）吉2404民初1090号民事判决；二、郎振有于本判决发生法律效力后，立即偿还丁坤借款本金15000元。"
+    ],
+    "judgment_text_first": "（2019）吉2404民初1090号 判决如下：被告郎振有于本判决发生法律效力后，立即偿还原告丁坤15000元及违约金（自2015年1月11日起至2017年1月20日止，以85000元为基数；自2017年1月21日起至2018年10月31日止，以25000元为基数计算；自2018年11月1日起至实际还清之日止，以15000元为基数，均按月利率1.5%计算）。",
+    "judgment_text_second": "（2019）吉24民终1445号 判决如下：撤销吉林省珲春市人民法院（2019）吉2404民初1090号民事判决；二、郎振有于本判决发生法律效力后，立即偿还丁坤借款本金15000元。",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "mediation_cia",
+      "gt_terminal": "second_mediation",
+      "gt_plaintiff": "draw",
+      "gt_defendant": "draw"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "郎振有"
+      ]
+    }
+  },
+  {
+    "case_id": 2204,
+    "original_id": 2204,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）沪0115民初9621号",
+    "court_1": "上海市浦东新区人民法院",
+    "case_number_2": "（2019）沪01民终9265号",
+    "court_2": "上海市第一中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "乐莹",
+        "party_type": "自然人",
+        "gender": "",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "毕京洲",
+        "party_type": "自然人",
+        "gender": "",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "乐莹与毕京洲发生民间借贷纠纷。一审案号（2019）沪0115民初9621号。1.判令被告偿还原告借款100万元；2.判令被告支付原告按借款100万元为基数，按年利率6%计算的自2015年12月23日起至实际还款日止的利息。 被告方面：",
+      "client_plaintiff": {
+        "borrow_amount": "1.判令被告偿还原告借款100万元；2.判令被告支付原告按借款100万元为基数，按年利率6%计算的自2015年12月23日起至实际还款日止的利息。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条",
+          "转账"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 1,
+        "detail": "上诉人申请撤回上诉"
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 13800.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_annual": 0.06,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条",
+          "转账"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "win",
+        "defendant": "lose"
+      },
+      "second": {
+        "kind": "维持",
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）沪0115民初9621号 原告乐莹与被告毕京洲民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告毕京洲归还原告乐莹借款本金13800元；二、利息按年利率6%计付；三、案件受理费减半收取，由被告毕京洲负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 13800.0,
+          "settlement_interest_cap": "年利率6%"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）沪01民终9265号 上诉人毕京洲因与被上诉人乐莹民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以13800元为基数）；二、二审案件受理费由上诉人毕京洲负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 13800.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）沪0115民初9621号 原告乐莹以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告乐莹撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）沪01民终9265号 上诉人毕京洲向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人毕京洲撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      "1.判令被告偿还原告借款100万元；2.判令被告支付原告按借款100万元为基数，按年利率6%计算的自2015年12月23日起至实际还款日止的利息。"
+    ],
+    "defense_gt": "100万元是原告所在公司向被告支付的2015年年终和项目分红，但在原告否认的情况，被告未能就其主张提供证据予以证明，因此，相应不利后果依法应由负有举证证明责任的被告承担",
+    "appeal_requests_gt": {
+      "claim": [
+        "撤销原审判决，依法改判驳回被上诉人的原审诉讼请求。"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "：被告毕某2与原告乐某的丈夫沈善俊是朋友关系，双方互有经济往来。2015年12月22日，原告通过其名下的中国工商银行卡号XXXXXXXXXXXXXXXXXXX向被告名下的中国建设银行卡号XXXXXXXXXXXXXXXXXXX转账100万元，中国工商银行境内汇款电子回单附言载明“沈善俊”，明细详情交易备注载明“借款”。现原告要求被告还款，故引发本案诉讼。审理中，被告称确实在那时购买房屋，但100万元是沈善俊所在公司向被告支付的2015年年终和项目分红。原告对此予以否认，称被告不是公司股东，不存在分红，被告借款是通过中间人搭话，因碍于情面且公司内存在朋友关系，所以不好写借条，被告还承诺是短期还款。本院组织双方进行调解，但双方分歧较大，致使本案调解未成。以上事实，由原告提供的中国工商银行借记卡账户历史明细清单、境内汇款电子回单、明细详情，被告提供的招商银行历史交易明细表，以及本案庭审笔录等证据证…",
+    "opinion_gt": "《最高人民法院关于审理民间借贷案件适用法律若干问题的规定》第十七条规定，原告仅依据金融机构的转账凭证提起民间借贷诉讼，被告抗辩转账系偿还双方之前借款或其他债务，被告应当对其主张提供证据证明。被告提供相应证据证明其主张后，原告仍应就借贷关系的成立承担举证证明责任。根据该条规定，在原告仅依据金融机构的转账凭证提起民间借贷诉讼的情况下，被告对转账系偿还双方之前借款或其他债务之抗辩主张负有举证证明责任，如被告不能证明该抗辩主张的，原告的民间借贷主张依法成立，相应不利后果依法应由负有举证证明责任的被告承担。本案中，被告抗辩称100万元是原告所在公司向被告支付的2015年年终和项目分红，但在原告否认的情况，被告未能就其主张提供证据予以证明，因此，相应不利后果依法应由负有举证证明责任的被告承担。双方虽没有约定借款期限，但依照相关法律规定，原告有权催告被告在合理期限内返还，现原告已采用诉讼方式催告被告还款…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "被告毕某2于本判决生效之日起十日内归还原告乐某100万元；二、被告毕某2于本判决生效之日起十日内偿付原告乐某以100万元为基数，按年利率6%计算的自2019年3月12日起至实际清偿日止的利息；三、驳回原告乐某其余的诉讼请求。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉，维持原判。二审案件受理费人民币13,800元，由上诉人毕京洲负担。本判决为终审判决。"
+    ],
+    "judgment_text_first": "（2019）沪0115民初9621号 判决如下：被告毕某2于本判决生效之日起十日内归还原告乐某100万元；二、被告毕某2于本判决生效之日起十日内偿付原告乐某以100万元为基数，按年利率6%计算的自2019年3月12日起至实际清偿日止的利息；三、驳回原告乐某其余的诉讼请求。",
+    "judgment_text_second": "（2019）沪01民终9265号 判决如下：驳回上诉，维持原判。二审案件受理费人民币13,800元，由上诉人毕京洲负担。本判决为终审判决。",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "withdraw_appeal",
+      "gt_terminal": "second_withdraw_appeal",
+      "gt_plaintiff": "win",
+      "gt_defendant": "lose"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "毕京洲"
+      ]
+    }
+  },
+  {
+    "case_id": 2303,
+    "original_id": 2303,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2018）云01民初217号",
+    "court_1": "云南省昆明市中级人民法院",
+    "case_number_2": "（2019）云01民终4376号",
+    "court_2": "云南省昆明市中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "刘晋舟",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "任晓鹏",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "刘晋舟与任晓鹏发生民间借贷纠纷。一审案号（2018）云01民初217号。明宇、江旭斌，云南滇铭律师事务所律师，特别授权代理。被告：任晓鹏，男，汉族，1979年1月27日生，住河南省新乡市红旗区。委托诉讼代理人：吴彬彬，河南佳鑫律师事务所律师，特别授权代理。原告刘晋舟诉被告任晓鹏民间借贷纠纷一案，本院于2018年1月25日受理后，审理中，被告任晓鹏对本院的管辖权提出异议，经云南省高级人民法院终审裁定",
+      "client_plaintiff": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "1、双方没有发生借贷关系，原告要求被告归还的借款没有任何事实依据；2、双方的保证金纠纷已经在官渡区人民法院起诉；3、原告的诉讼混淆事实滥用诉权，重复起诉，应予驳回。当事人围绕诉讼请求依法提交了证据，本院组织当事人进行了证据交换。对当事人无异议的证据，本院予以确认并在卷佐证。对双方争议的原、被告是否存在本案借款的事实，本院将在下文结合争议焦点一并评述。经审理，本院认定本案事实如下：2017年5月19",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 1,
+        "stage": "CIA",
+        "outcome": "成立"
+      },
+      "withdraw_appeal": {
+        "label": 0,
+        "detail": ""
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 11660062.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_annual": 0.06,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "lose",
+        "defendant": "win"
+      },
+      "second": {
+        "kind": "维持",
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2018）云01民初217号 原告刘晋舟与被告任晓鹏民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告任晓鹏归还原告刘晋舟借款本金11660062元；二、利息按年利率6%计付；三、案件受理费减半收取，由被告任晓鹏负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 11660062.0,
+          "settlement_interest_cap": "年利率6%"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）云01民终4376号 上诉人任晓鹏因与被上诉人刘晋舟民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以11660062元为基数）；二、二审案件受理费由上诉人任晓鹏负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 11660062.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2018）云01民初217号 原告刘晋舟以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告刘晋舟撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）云01民终4376号 上诉人任晓鹏向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人任晓鹏撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      ""
+    ],
+    "defense_gt": "1、双方没有发生借贷关系，原告要求被告归还的借款没有任何事实依据；2、双方的保证金纠纷已经在官渡区人民法院起诉；3、原告的诉讼混淆事实滥用诉权，重复起诉，应予驳回。当事人围绕诉讼请求依法提交了证据，本院组织当事人进行了证据交换。对当事人无异议的证据，本院予以确认并在卷佐证。对双方争议的原、被告是否存在本案借款的事实，本院将在下文结合争议焦点一并评述。经审理，本院认定本案事实如下：2017年5月19日，被告任小鹏向原告刘晋舟出具《承诺书》载明，因被告任小鹏使用案外人杨建国的证券账户，里面有股票停牌，无故牵连原告刘晋舟使用的徐娟华和杨杨的证券账户，被徐娟华、杨杨强行私自平仓，并单方面强制扣押刘晋舟保证金11660062元拒不归还，被告任小鹏愿意承担杨建国证券账户里面有股票复牌后所产生的一切损失，并积极配合原告刘晋舟解决与案外人徐娟华、杨杨的保证金纠纷。同日，被告还向原告出具《借条》载明，被告欠原告2407370元，该借款现已经在官渡区人民法起诉。2018年7月3日，原告刘晋舟出具《情况说明》载明，2016年至2017年5月19日，其与被告之间共转款2418000元，经对账扣除还款，被告还欠…",
+    "appeal_requests_gt": {
+      "claim": [
+        "撤销一审判决，依法改判驳回被上诉人的诉讼请求或将本案发回重审。"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "",
+    "opinion_gt": "：《中华人民共和国民事诉讼》第六十四条规定“当事人对自已的主张有责任提供证据”；最高人民法院关于适用《中华人民共和国民事诉讼法》的解释第九十条第二款规定“在作出判决前，当事人未能提供证据或者提供的证据不足以证明其事实主张的，由负有举证证明责任的当事人承担不利后果”，故依法当事人对自已的主张负有举证证明责任，未能提供证据或者提供的证据不足以证明其事实主张的当事人承担不利后果。本案中，原告提交的《承诺书》所载内容，反映的是被告因使用案外人的股票账户给原告造成的损失问题，而非原告主张的民间借贷法律关系，其他证据材料也不足以证明原告主张的本案民间借贷法律关系成立。而被告提交原告刘晋舟本人书写的《情况说明》，也表明双方2016年至2017年5月19日之间的借款经结算为2407370元，原告也起诉到法院解决。因此，综合全案证据，原告主张与被告之间存在11660062元的民间借贷要求归还并承担资金占用费…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "驳回原告刘晋舟的诉讼请求。案件受理费94559元，由驳回原告刘晋舟承担。"
+    ],
+    "final_judgment_gt_2": [
+      "驳回上诉、维持原判。二审案件受理费26444元，由上诉人任晓鹏负担。本判决为终审判决。本判决生效后，若负有义务的当事人不自动履行本判决，享有权利的当事人可在本判决规定履行期限届满后法律规定的期限内向一审法院申请强制执行，申请强制执行的期限为两年。"
+    ],
+    "judgment_text_first": "（2018）云01民初217号 判决如下：驳回原告刘晋舟的诉讼请求。案件受理费94559元，由驳回原告刘晋舟承担。",
+    "judgment_text_second": "（2019）云01民终4376号 判决如下：驳回上诉、维持原判。二审案件受理费26444元，由上诉人任晓鹏负担。本判决为终审判决。本判决生效后，若负有义务的当事人不自动履行本判决，享有权利的当事人可在本判决规定履行期限届满后法律规定的期限内向一审法院申请强制执行，申请强制执行的期限为两年。",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "mediation_cia",
+      "gt_terminal": "second_mediation",
+      "gt_plaintiff": "draw",
+      "gt_defendant": "draw"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "任晓鹏"
+      ]
+    }
+  },
+  {
+    "case_id": 2404,
+    "original_id": 2404,
+    "cause": "民间借贷纠纷",
+    "appellant_role": "被告",
+    "case_number_1": "（2019）辽1104民初144号",
+    "court_1": "盘锦市大洼区人民法院",
+    "case_number_2": "（2019）辽11民终1013号",
+    "court_2": "辽宁省盘锦市中级人民法院",
+    "parties": {
+      "plaintiff": {
+        "name": "卢毅",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "high",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "我转出去的钱，还能不能按本金要回来？",
+            "reference_answer": "应根据实际出借金额认定本金；若存在出借当日预扣或立即返还的款项，计息本金应按实际出借额掌握，不能把未真正由借款人使用的部分全部当作可计息本金。"
+          },
+          {
+            "question": "借条上写的利息，法院能全支持吗？",
+            "reference_answer": "超过评测时有效的民间借贷利率保护上限的部分，不应予以支持。"
+          },
+          {
+            "question": "对方一直拖着不还，我能不能先申请保全？",
+            "reference_answer": "是否申请保全应结合对方是否可能转移财产、有无担保财产线索判断；无必要则不必申请。"
+          }
+        ]
+      },
+      "defendant": {
+        "name": "于玉鑫",
+        "party_type": "自然人",
+        "gender": "男",
+        "address": "",
+        "personality": "",
+        "speaking_style": "",
+        "interaction_guidelines": "",
+        "legal_persona_profile": {
+          "legal_literacy_level": "medium",
+          "information_disclosure_willingness": "low",
+          "emotional_stability": "medium",
+          "narrative_proficiency": "medium"
+        },
+        "questions": [
+          {
+            "question": "已经还过的钱，能不能从他们要的本金里扣掉？",
+            "reference_answer": "已还款项应在确定利息标准后依法抵扣；出借当日立即支付且性质上属于预扣利息的，应按实际出借金额计息。"
+          },
+          {
+            "question": "他们主张的高利息，我们必须按这个给吗？",
+            "reference_answer": "利率约定不明或超过保护上限的，不应全额按出借人主张支持。"
+          }
+        ]
+      }
+    },
+    "facts": {
+      "case_background": "卢毅与于玉鑫发生民间借贷纠纷。一审案号（2019）辽1104民初144号。1、判令被告偿还原告借款16万元及利息（利息自起诉之日起至实际还款之日止，按照中国人民银行同期同类贷款利率计算）。 被告方面：",
+      "client_plaintiff": {
+        "borrow_amount": "1、判令被告偿还原告借款16万元及利息（利息自起诉之日起至实际还款之日止，按照中国人民银行同期同类贷款利率计算）。",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [
+          "借条",
+          "转账",
+          "微信"
+        ],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      },
+      "client_defendant": {
+        "borrow_amount": "",
+        "repaid": "",
+        "interest_terms": "",
+        "evidence_owned": [],
+        "guarantee": "",
+        "offset": "",
+        "limitation": ""
+      }
+    },
+    "doors": {
+      "preservation_pre": {
+        "label": 0,
+        "detail": "保全痕迹未拆分诉前/诉中，统一归诉中门；人工抽检核对"
+      },
+      "counterclaim": {
+        "label": 0,
+        "detail": "原文反诉痕迹"
+      },
+      "preservation_mid": {
+        "label": 0,
+        "detail": "原文保全痕迹（诉前/诉中未拆分，暂归诉中）"
+      },
+      "mediation": {
+        "label": 0,
+        "stage": "CI",
+        "outcome": "未果"
+      },
+      "withdraw_appeal": {
+        "label": 1,
+        "detail": "上诉人申请撤回上诉"
+      },
+      "withdraw_lawsuit": {
+        "label": 0,
+        "detail": "原文撤诉痕迹（历史未走通）"
+      }
+    },
+    "slots_gt": {
+      "principal": {
+        "amount": 8000.0
+      },
+      "repaid": {
+        "amount": null
+      },
+      "interest": {
+        "rate_annual": null,
+        "rate_monthly": null,
+        "start_date": null
+      },
+      "evidence": {
+        "plaintiff": [
+          "借条",
+          "转账",
+          "微信"
+        ],
+        "defendant": []
+      },
+      "guarantee": {
+        "present": false
+      },
+      "offset": {
+        "present": false
+      },
+      "limitation": {
+        "present": false
+      }
+    },
+    "outcomes": {
+      "first": {
+        "kind": "judgment",
+        "plaintiff": "win",
+        "defendant": "lose"
+      },
+      "second": {
+        "kind": "改判",
+        "plaintiff": "win",
+        "defendant": "lose"
+      }
+    },
+    "outcomes_alt": {
+      "mediation_ci": {
+        "document_gt": "民事调解书 （2019）辽1104民初144号 原告卢毅与被告于玉鑫民间借贷纠纷一案，经本院主持调解，双方当事人自愿达成如下协议：一、被告于玉鑫归还原告卢毅借款本金8000元；二、利息按年利率24%上限计付；三、案件受理费减半收取，由被告于玉鑫负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 8000.0,
+          "settlement_interest_cap": "年利率24%上限"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "mediation_cia": {
+        "document_gt": "民事调解书 （2019）辽11民终1013号 上诉人于玉鑫因与被上诉人卢毅民间借贷纠纷一案，经本院主持调解，双方自愿达成如下协议：一、按一审判决确定的义务履行（本金以8000元为基数）；二、二审案件受理费由上诉人于玉鑫负担。上述协议不违反法律规定，本院予以确认。",
+        "slots": {
+          "settlement_principal": 8000.0,
+          "settlement_interest_cap": "按一审判决"
+        },
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_ci": {
+        "document_gt": "民事裁定书 （2019）辽1104民初144号 原告卢毅以双方自行和解为由向本院申请撤回起诉。本院认为，原告申请撤回起诉系其真实意思表示，不违反法律规定，裁定如下：准许原告卢毅撤回起诉。案件受理费减半收取。",
+        "reason_gt": "当事人自行和解后申请撤回起诉",
+        "provenance": "counterfactual_on_same_facts"
+      },
+      "withdraw_appeal": {
+        "document_gt": "民事裁定书 （2019）辽11民终1013号 上诉人于玉鑫向本院申请撤回上诉。本院认为，上诉人申请撤回上诉系其真实意思表示，不违反法律规定，裁定如下：准许上诉人于玉鑫撤回上诉。一审判决自本裁定书送达之日起发生法律效力。",
+        "reason_gt": "上诉人自愿申请",
+        "provenance": "counterfactual_on_same_facts"
+      }
+    },
+    "appeal_issues": [
+      "本金或利息认定"
+    ],
+    "claims_gt": [
+      "1、判令被告偿还原告借款16万元及利息（利息自起诉之日起至实际还款之日止，按照中国人民银行同期同类贷款利率计算）。"
+    ],
+    "defense_gt": "",
+    "appeal_requests_gt": {
+      "claim": [
+        "撤销一审判决，依法改判或发回重审。 一、二审案件诉讼费用由"
+      ],
+      "reasons": ""
+    },
+    "finding_gt": "：2017年9月份，原告卢毅与被告于玉鑫经朋友介绍相识。2017年9月26日，被告于玉鑫向原告卢毅借款1万元，为原告卢毅出具借款金额为1万元的借条，约定借款期限自2017年9月26日至2017年10月25日。2017年11月8日，被告于玉鑫向原告卢毅借款2万元，为原告出具借款金额为4万元的借条，约定借款期限自2017年11月8日至2017年12月7日。2017年11月10日，被告于玉鑫向原告卢毅借款2万元，为原告出具借款金额为4万元的借条，约定借款期限自2017年11月10日至2017年12月9日。现原告卢毅主张被于玉鑫向其借款共计16万元，要求被告于玉鑫偿还借款16万元并从起诉之日起至实际还款之日止，按照中国人民银行同期同类贷款利率支付利息。上述事实有原告卢毅提交的出具日期分别为2017年9月26日、2017年11月8日、2017年11月10日借条三张；被告于玉鑫提交的轻工街派出所对卢毅…",
+    "opinion_gt": "合法的借贷关系受法律保护。本案中，被告于玉鑫向原告卢毅借款，在其收到原告卢毅款交付的款项后，双方借贷关系成立，被告于玉鑫作为债务人，应当积极履行偿还借款的义务。关于被告于玉鑫向原告卢毅借款的数额及款项交付方式，原告卢毅主张向被告于玉鑫借款16万元，第一次庭审中其陈述现金交付12至13万元，支付宝转账8000元，微信转账一部分，并通过别人向被告于玉鑫转账一部分；第二次庭审中陈述包括本案借款在内，向被告于玉鑫借款11笔均为现金交付，两次陈述前后矛盾，且两次庭审均未对款项的交付提交任何证据。庭审中原告卢毅陈述与被告于玉鑫于2017年9月份相识，当时被告于玉鑫是无业游民。原告卢毅明知其无偿还能力，且确未偿还任何款项的情况下，在相识不到两个月时间内多次向其无息借款高达16万元，明显不符合常理及交易习惯。原告提交的证据中，两份2017年9月26日出具的借条，借款金额及期限均相同，亦不合常理。综上，原告…",
+    "finding_gt_2": "",
+    "opinion_gt_2": "",
+    "final_judgment_gt": [
+      "被告于玉鑫于本判决生效后十日内偿还原告卢毅借款5万元及利息（其中1万元利息自2017年10月26日起，2万元利息自2017年12月8日起，2万元利息自2017年12月10日起，均计算至本判决确定给付之日止，按照中国人民银行同期同类贷款利率计付）。",
+      "驳回原告卢毅的其他诉讼请求。"
+    ],
+    "final_judgment_gt_2": [
+      "被告于玉鑫于本判决生效后十日内偿还原告卢毅借款5万元及利息（其中1万元利息自2017年10月26日起，2万元利息自2017年12月8日起，2万元利息自2017年12月10日起，均计算至本判决确定给付之日止，按照中国人民银行同期同类贷款利率计付）。",
+      "驳回原告卢毅的其他诉讼请求。"
+    ],
+    "judgment_text_first": "（2019）辽1104民初144号 判决如下：被告于玉鑫于本判决生效后十日内偿还原告卢毅借款5万元及利息（其中1万元利息自2017年10月26日起，2万元利息自2017年12月8日起，2万元利息自2017年12月10日起，均计算至本判决确定给付之日止，按照中国人民银行同期同类贷款利率计付）。；驳回原告卢毅的其他诉讼请求。",
+    "judgment_text_second": "（2019）辽11民终1013号 判决如下：被告于玉鑫于本判决生效后十日内偿还原告卢毅借款5万元及利息（其中1万元利息自2017年10月26日起，2万元利息自2017年12月8日起，2万元利息自2017年12月10日起，均计算至本判决确定给付之日止，按照中国人民银行同期同类贷款利率计付）。；驳回原告卢毅的其他诉讼请求。",
+    "new_evidence": {
+      "appellant": [],
+      "appellee": []
+    },
+    "inject": {
+      "plaintiff": "repaid",
+      "defendant": "interest"
+    },
+    "probe": {
+      "kind": "withdraw_appeal",
+      "gt_terminal": "second_withdraw_appeal",
+      "gt_plaintiff": "win",
+      "gt_defendant": "lose"
+    },
+    "multi_party": {
+      "count": 1,
+      "names": [
+        "于玉鑫"
+      ]
+    }
+  }
+]
